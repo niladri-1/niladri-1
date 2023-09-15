@@ -1,5 +1,5 @@
 <center>
-# Hi there, I'm Niladri Chatterjee 👋
+<h1> Hi there, I'm Niladri Chatterjee 👋 </h1>
 </center>
 
 
