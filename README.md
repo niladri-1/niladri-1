@@ -7,12 +7,12 @@ I'm a Computer Science student passionate about **Coding** and **Technology**.
 
 ## Skills
 
-- **Programming Languages**: C, C++, Python
-- **Web Development**: HTML, CSS, JavaScript
-- **Backend Web Framework**: Flask
-- **GUI Development**: Python Tkinter
-- **Databases**: MySQL, SQLite
-- **Operating Systems**: Linux
+- Programming Languages: C, C++, Python
+- Web Development: HTML, CSS, JavaScript
+- Backend Web Framework: Flask
+- GUI Development: Python Tkinter
+- Databases: MySQL, SQLite
+- Operating Systems: Linux
 
 ## Education
 
