@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Niladri Chatterjee</h1>
 
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
+<br>
 
 - 🔭 I’m currently working on ***Facebook Cloning***
 
@@ -13,7 +14,7 @@
 
 - 💬 Ask me about ***C++, Python, Frontend Development***
 
-  <br><br><br>
+  <br><br>
 
 - ⚡ Fun fact ***Code is the poetry of machines, and a well-crafted algorithm is a symphony for the digital age.***
 
