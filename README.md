@@ -3,6 +3,18 @@
 
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
 
+- 🔭 I’m currently working on ***FaceBook Cloning***
+
+- 🌱 I’m currently learning ***JavaScript, Django, MongoDB***
+
+- 👯 I’m looking to collaborate on ***A Full Stage Project***
+
+- 🤝 I’m looking for help with ***Spam Mail Detection***
+
+- 💬 Ask me about ***C++, Python, Frontend Development***
+
+- ⚡ Fun fact ***Code is the poetry of machines, and a well-crafted algorithm is a symphony for the digital age.***
+
 ## Skills
 
 <p align="center">
@@ -22,15 +34,3 @@
 </p>
 
 
-
-- 🔭 I’m currently working on **FaceBook Cloning**
-
-- 🌱 I’m currently learning **JavaScript, Django, MongoDB**
-
-- 👯 I’m looking to collaborate on **A Full Stage Project**
-
-- 🤝 I’m looking for help with **Spam Mail Detection**
-
-- 💬 Ask me about **C++, Python, Frontend Development**
-
-- ⚡ Fun fact **Code is the poetry of machines, and a well-crafted algorithm is a symphony for the digital age.**
