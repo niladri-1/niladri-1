@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Niladri Chatterjee</h1>
 
-
-
-I'm a Computer Science student passionate about **Coding** and **Technology**.
+<h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
 
 ## Skills
 
@@ -23,7 +21,7 @@ I'm a Computer Science student passionate about **Coding** and **Technology**.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
+
 
 - 🔭 I’m currently working on **FaceBook Cloning**
 
