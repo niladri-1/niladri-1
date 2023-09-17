@@ -2,15 +2,16 @@
 <h1 align="center">Hi 👋, I'm Niladri Chatterjee</h1>
 
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
+
 <br>
 
-- 🔭 I’m currently working on ***Facebook Cloning***
+- 🔭 I’m currently working on ***Facebook cloning***
 
 - 🌱 I’m currently learning ***JavaScript, Django, MongoDB***
 
-- 👯 I’m looking to collaborate on a ***Full Stack Project***
+- 👯 I’m looking to collaborate on a ***full stack project***
 
-- 🤝 I’m looking for help with ***Spam Mail Detection***
+- 🤝 I’m looking for help with ***Spam mail detection***
 
 - 💬 Ask me about ***C++, Python, Frontend Development, DBMS***
   <br>
