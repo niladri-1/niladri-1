@@ -14,8 +14,7 @@
 
 - 💬 Ask me about ***C++, Python, Frontend Development, DBMS***
 
-  <br><br>
-
+  <br>
    ***<p align="center">Code is the poetry of machines, and a well-crafted algorithm is a symphony for the digital age.</p>***
 
 ## Languages and Tools:
