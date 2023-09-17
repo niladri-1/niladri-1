@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with ***Spam Mail Detection***
 
-- 💬 Ask me about ***C++, Python, Frontend Development***
+- 💬 Ask me about ***C++, Python, Frontend Development, DBMS***
 
   <br><br>
 
