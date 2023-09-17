@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ***JavaScript, Django, MongoDB***
 
-- 👯 I’m looking to collaborate on ***A Full Stage Project***
+- 👯 I’m looking to collaborate on ***A Full Stack Project***
 
 - 🤝 I’m looking for help with ***Spam Mail Detection***
 
