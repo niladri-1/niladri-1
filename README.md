@@ -3,7 +3,7 @@
 
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
 
-- 🔭 I’m currently working on ***FaceBook Cloning***
+- 🔭 I’m currently working on ***Facebook Cloning***
 
 - 🌱 I’m currently learning ***JavaScript, Django, MongoDB***
 
