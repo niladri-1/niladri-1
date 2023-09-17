@@ -16,7 +16,7 @@
 
   <br><br>
 
-- ⚡ Fun fact ***Code is the poetry of machines, and a well-crafted algorithm is a symphony for the digital age.***
+   ***<center>Code is the poetry of machines, and a well-crafted algorithm is a symphony for the digital age.</center>***
 
 ## Skills
 
