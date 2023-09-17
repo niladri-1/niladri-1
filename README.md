@@ -5,15 +5,15 @@
 
 <br>
 
-- 🔭 I’m currently working on ***Facebook cloning***
+- 🔭 I’m currently working on ***Facebook cloning.***
 
-- 🌱 I’m currently learning ***JavaScript, Django, MongoDB***
+- 🌱 I’m currently learning ***JavaScript, Django, MongoDB.***
 
-- 👯 I’m looking to collaborate on a ***full stack project***
+- 👯 I’m looking to collaborate on a ***full stack project.***
 
-- 🤝 I’m looking for help with ***Spam mail detection***
+- 🤝 I’m looking for help with ***Spam mail detection.***
 
-- 💬 Ask me about ***C++, Python, Frontend Development, DBMS***
+- 💬 Ask me about ***C++, Python, Frontend Development, DBMS.***
   <br>
   
    ***<p align="center">Code is the poetry of machines, and a well-crafted algorithm is a symphony for the digital age.</p>***
