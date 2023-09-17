@@ -16,9 +16,9 @@
 
   <br><br>
 
-   ***<center>Code is the poetry of machines, and a well-crafted algorithm is a symphony for the digital age.</center>***
+   ***<p align="center">Code is the poetry of machines, and a well-crafted algorithm is a symphony for the digital age.</p>***
 
-## Skills
+## Languages and Tools:
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
