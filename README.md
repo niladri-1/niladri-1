@@ -1,7 +1,7 @@
 
-<h1 align="center" style="color:white;">Hi 👋, I'm Niladri Chatterjee</h1>
+<h1 align="center">Hi 👋, I'm Niladri Chatterjee</h1>
 
-<h3 align="center" style="color:white;">I'm a Computer Science student passionate about Coding and Technology.</h3>
+<h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
 
 <br>
 
