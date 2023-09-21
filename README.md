@@ -5,6 +5,8 @@
 
 <br>
 
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=niladri-1&theme=merko&show_icons=true">](https://metrics.lecoq.io/niladri-1?template=classic)
+
 - 🔭 I’m currently working on ***Facebook cloning.***
 
 - 🌱 I’m currently learning ***JavaScript, Django, MongoDB.***
