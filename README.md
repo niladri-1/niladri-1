@@ -3,7 +3,6 @@
 
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
 
-<br>
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=niladri-1&theme=merko&show_icons=true">](https://metrics.lecoq.io/niladri-1?template=classic)
 
@@ -21,7 +20,6 @@
 
 - 📄 Know about my experiences from my ***[CV](https://drive.google.com/file/d/1a_tG1lIRXvB8wzLbOe3JULQesDq-MlMO/view?usp=drive_link)***
 
-  <br>
   
    ***<p align="center">Code is the poetry of machines, and a well-crafted algorithm is a symphony for the digital age.</p>***
 
