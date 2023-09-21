@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Niladri Chatterjee</h1>
+<h1 align="center" style="color: white;">Hi 👋, I'm Niladri Chatterjee</h1>
 
-<h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
+<h3 align="center" style="color: white;">I'm a Computer Science student passionate about Coding and Technology.</h3>
 
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=niladri-1&theme=merko&show_icons=true">](https://metrics.lecoq.io/niladri-1?template=classic)
