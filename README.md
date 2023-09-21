@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="center">
 <a href="https://www.linkedin.com/in/niladri1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niladri1/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@inspireflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@inspireflow" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
