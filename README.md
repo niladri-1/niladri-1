@@ -27,7 +27,7 @@
 
 ## Languages and Tools:
 
-<p align="right">
+<p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,11 +51,4 @@
 <a href="https://www.hackerrank.com/niladri_365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/niladri_365" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/niladrichatterjee365/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/niladrichatterjee365/practice" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://profiles.topcoder.com/niladri1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/niladri1" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<br>
-
-<p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niladri-1&show_icons=true&locale=en&layout=compact" alt="niladri-1"/></p>
-<p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=niladri-1&" alt="niladri-1"/></p>
 </p>
