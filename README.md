@@ -12,11 +12,13 @@
 
 - 🤝 I’m looking for help with **Spam mail detection.**
 
-- 👨‍💻 All of my website is available at **[Portfilio](bit.ly/portflorix)**
+- 👨‍💻 All of my website is available at **[Portfilio](https://niladri-1.github.io/Portfolio/)**
+
+- 📄 Know about my experiences from my **[CV](https://drive.google.com/file/d/1a_tG1lIRXvB8wzLbOe3JULQesDq-MlMO/view?usp=drive_link)**
 
 - 💬 Ask me about **C++, Python, Frontend Development, DBMS.**
 
-- 📄 Know about my experiences from my **[CV](https://drive.google.com/file/d/1a_tG1lIRXvB8wzLbOe3JULQesDq-MlMO/view?usp=drive_link)**
+
 
   
    **<p align="center">Code is the poetry of machines, and a well-crafted algorithm is a symphony for the digital age.</p>**
