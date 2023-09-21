@@ -17,7 +17,7 @@
 
 - 💬 Ask me about ***C++, Python, Frontend Development, DBMS.***
 
-- 📄 Know about my experiences from my ***[CV](bit.ly/niladri-cv)***
+- 📄 Know about my experiences from my ***[CV](https://drive.google.com/file/d/1a_tG1lIRXvB8wzLbOe3JULQesDq-MlMO/view?usp=drive_link)***
 
   <br>
   
