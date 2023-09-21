@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
 
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=niladri-1&theme=merko&show_icons=true">](https://github-readme-streak-stats.herokuapp.com/?user=niladri-1&theme=highcontrast&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=niladri-1&theme=highcontrast&hide_border=true)
 - 🔭 I’m currently working on **Facebook cloning.**
 
 - 🌱 I’m currently learning **JavaScript, Django, MongoDB.**
