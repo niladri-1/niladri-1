@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niladri Chatterjee</h1>
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
 
-![<img align="right" width="50%"](https://github-readme-streak-stats.herokuapp.com/?user=niladri-1&theme=highcontrast&hide_border=true)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=niladri-1&theme=merko&show_icons=true">](https://metrics.lecoq.io/niladri-1?template=classic)
 
 - 🔭 I’m currently working on **Facebook cloning.**
 
