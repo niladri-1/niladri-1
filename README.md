@@ -2,13 +2,13 @@
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3> <br>
 
 
-- 🔭 I’m currently working on **Facebook cloning.**
+- 🔭 I’m currently working on **every thing.**
 
-- 🌱 I’m currently learning **JavaScript, Django, MongoDB.**
+- 🌱 I’m currently learning **ReactJS & NodeJS.**
 
 - 👯 I’m looking to collaborate on a **full stack project.**
 
-- 🤝 I’m looking for help with **Spam mail detection.**
+- 🤝 I’m looking for help with **Spam mail detection project.**
 
 - 👨‍💻 All of my website is available at **[Portfilio](https://niladri-1.github.io/Portfolio/)**
 
