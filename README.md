@@ -10,15 +10,15 @@
 
 - 🤝 I’m looking for help with **Spam mail detection project.**
 
-- 👨‍💻 All of my website is available at **[Portfilio](https://niladri-1.github.io/Portfolio/)**
+- 👨‍💻 All of my website is available at **[Portfilio](https://portflorix.netlify.app/)**
 
-- 📄 Know about my experiences from my **[CV](https://drive.google.com/file/d/1a_tG1lIRXvB8wzLbOe3JULQesDq-MlMO/view?usp=drive_link)**
+- 📄 Know about my experiences from my **[CV](https://drive.google.com/file/d/1j3zys9pUf9myDvrqaDbvpWsFvtuDQ3fG/view?usp=sharing)**
 
 - 💬 Ask me about **C++, Python, Frontend Development, DBMS.**
 
 
 
-  
+
    **<p align="center">Code is the poetry of machines, and a well-crafted algorithm is a symphony for the digital age.</p>**
 
 ## Languages and Tools:
