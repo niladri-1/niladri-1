@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my website is available at **[Portfilio](https://portflorix.netlify.app/)**
 
-- 📄 Know about my experiences from my **[CV](https://drive.google.com/file/d/11k9HZ3ESBUwTgT3nrjl-gURlG2U52KB3/view?usp=drive_link)**
+- 📄 Know about my experiences from my **[CV](https://drive.google.com/file/d/11k9HZ3ESBUwTgT3nrjl-gURlG2U52KB3/view?usp=sharing)**
 
 - 💬 Ask me about **C++, Python, Frontend Development, DBMS.**
 
