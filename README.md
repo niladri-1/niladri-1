@@ -4,17 +4,17 @@
 
 - 🔭 I’m currently working on **every thing.**
 
-- 🌱 I’m currently learning **ReactJS & NodeJS.**
+- 🌱 I’m currently learning **all JS Library's**
 
 - 👯 I’m looking to collaborate on a **full stack project.**
 
-- 🤝 I’m looking for help with **Spam mail detection project.**
+- 🤝 I’m looking for help with **build 3D website**
 
-- 👨‍💻 All of my website is available at **[Portfilio](https://portflorix.netlify.app/)**
+- 👨‍💻 All of my website is available at **[Portfilio](https://niladri1.netlify.app/)**
 
-- 📄 Know about my experiences from my **[CV](https://drive.google.com/file/d/11k9HZ3ESBUwTgT3nrjl-gURlG2U52KB3/view?usp=sharing)**
+- 📄 Know about my experiences from my **[CV](https://niladri1.netlify.app/src/pdf/Niladri_Chatterjee(CV).pdf)**
 
-- 💬 Ask me about **C++, Python, Frontend Development, DBMS.**
+- 💬 Ask me about **DSA, Front-end, Framework(React) and DBMS**
 
 
 
