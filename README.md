@@ -3,8 +3,8 @@
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
 
 
-<div style="display: flex; align-items: flex-start;">
-    <div style="flex: 1;">
+<div style="overflow: hidden;">
+    <div style="float: left; width: 50%;">
         <ul>
             <li>🔭 I’m currently working on <b>every thing.</b></li>
             <li>👯 I’m looking to collaborate on <b>full stack project.</b></li>
@@ -16,7 +16,7 @@
             <li>📄 Know about my experiences <b><a href="https://niladri1.netlify.app/src/pdf/Niladri_Chatterjee(CV).pdf">CV</a></b></li>
         </ul>
     </div>
-    <div style="flex: 1;">
+    <div style="float: right; width: 50%;">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="180em" />
     </div>
 </div>
