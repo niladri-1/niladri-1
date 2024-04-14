@@ -7,9 +7,9 @@
 - 🤝 I’m looking for help with **build 3D website**
 - 🌱 I’m currently learning **all JS Library**
 - 💬 Ask me about **MERN stack related.**
-- 📫 How to reach me **connects.niladri@gmail.com**
-- 👨‍💻 All of my projects are available at **https://niladri1.netlify.app/**
-- 📄 Know about my experiences [CV](https://niladri1.netlify.app/src/pdf/Niladri_Chatterjee(CV).pdf)
+- 📫 How to reach me **[Gmail](connects.niladri@gmail.com)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://niladri1.netlify.app/)**
+- 📄 Know about my experiences **[CV](https://niladri1.netlify.app/src/pdf/Niladri_Chatterjee(CV).pdf)**
 
 <div> <a href="https://github.com/niladri-1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:connects.niladri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
