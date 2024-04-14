@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niladri Chatterjee</h1>
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
 
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="200em" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="210em" />
 
 - 🔭 I’m currently working on <b>every thing.</b>
 - 👯 I’m looking to collaborate on <b>full stack project.</b>
