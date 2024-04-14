@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Niladri Chatterjee</h1>
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
+
 - 🔭 I’m currently working on **every thing.**
 - 👯 I’m looking to collaborate on **full stack project.**
 - 🤝 I’m looking for help with **build 3D website**
