@@ -2,17 +2,11 @@
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3> <br>
 
 
-- 🔭 I’m currently working on **every thing.**
+- 🔭 I’m currently working on **every thing.**    - 👯 I’m looking to collaborate on a **full stack project.**
 
-- 🌱 I’m currently learning **all JS Library's**
+- 🌱 I’m currently learning **all JS Library**    - 🤝 I’m looking for help with **build 3D website**
 
-- 👯 I’m looking to collaborate on a **full stack project.**
-
-- 🤝 I’m looking for help with **build 3D website**
-
-- 👨‍💻 All of my website is available at **[Portfilio](https://niladri1.netlify.app/)**
-
-- 📄 Know about my experiences from my **[CV](https://niladri1.netlify.app/src/pdf/Niladri_Chatterjee(CV).pdf)**
+- 👨‍💻 All of my website is available at **[Portfilio](https://niladri1.netlify.app/)**    - 📄 Know about my experiences from my **[CV](https://niladri1.netlify.app/src/pdf/Niladri_Chatterjee(CV).pdf)**
 
 - 💬 Ask me about **DSA, Front-end, Framework(React) and DBMS**
 
