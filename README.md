@@ -2,30 +2,25 @@
 <h1 align="center">Hi 👋, I'm Niladri Chatterjee</h1>
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
 
-<div style="display: flex;">
 
-  <!-- Content Section -->
-  <div style="flex: 1;">
-    <div align="left">
-      - 🔭 I’m currently working on <b>everything.</b><br>
-      - 👯 I’m looking to collaborate on <b>full stack projects.</b><br>
-      - 🤝 I’m looking for help with <b>building 3D websites.</b><br>
-      - 🌱 I’m currently learning <b>all JS libraries.</b><br>
-      - 💬 Ask me about <b>MERN stack related topics.</b><br>
-      - 📫 How to reach me: <b><a href="mailto:connects.niladri@gmail.com">Gmail</a></b><br>
-      - 👨‍💻 All of my projects are available at <b><a href="https://niladri1.netlify.app/">Portfolio</a></b><br>
-      - 📄 Know about my experiences: <b><a href="https://niladri1.netlify.app/src/pdf/Niladri_Chatterjee(CV).pdf">CV</a></b><br>
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1;">
+        <ul>
+            <li>🔭 I’m currently working on <b>every thing.</b></li>
+            <li>👯 I’m looking to collaborate on <b>full stack project.</b></li>
+            <li>🤝 I’m looking for help with <b>build 3D website.</b></li>
+            <li>🌱 I’m currently learning <b>all JS Library.</b></li>
+            <li>💬 Ask me about <b>MERN stack related.</b></li>
+            <li>📫 How to reach me <b><a href="mailto:connects.niladri@gmail.com">Gmail</a></b></li>
+            <li>👨‍💻 All of my projects are available at <b><a href="https://niladri1.netlify.app/">Portfolio</a></b></li>
+            <li>📄 Know about my experiences <b><a href="https://niladri1.netlify.app/src/pdf/Niladri_Chatterjee(CV).pdf">CV</a></b></li>
+        </ul>
     </div>
-  </div>
-
-  <!-- GitHub Stats Section -->
-  <div style="flex: 1;">
-    <div align="right">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="180em" />
+    <div style="flex: 1;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="180em" />
     </div>
-  </div>
-
 </div>
+
 
 
 <h3 align="center">Socials</h3>
