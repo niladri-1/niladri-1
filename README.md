@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Niladri Chatterjee</h1>
+[<h1 align="center">Hi 👋, I'm Niladri Chatterjee</h1>
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3> <br>
 
 
@@ -43,3 +43,4 @@
 <a href="https://twitter.com/coding_niladri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coding_niladri" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/niladri1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niladri1" height="30" width="40" /></a>
 </p>
+](https://niladri1.netlify.app/src/pdf/Niladri_Chatterjee(CV).pdf)
