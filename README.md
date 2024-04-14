@@ -1,34 +1,43 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Niladri Chatterjee</h1>
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🔭 I’m currently working on **everything.**
-- 👯 I’m looking to collaborate on **full stack projects.**
-- 🤝 I’m looking for help with **building 3D websites.**
-- 🌱 I’m currently learning **all JS Libraries.**
-- 💬 Ask me about **MERN stack related topics.**
-- 📫 How to reach me **[Gmail](mailto:connects.niladri@gmail.com)**
-- 👨‍💻 All of my projects are available at **[Portfolio](https://niladri1.netlify.app/)**
-- 📄 Know about my experiences **[CV](https://niladri1.netlify.app/src/pdf/Niladri_Chatterjee(CV).pdf)**
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+    <ul>
+        <li>🔭 I’m currently working on <b>every thing.</b></li>
+        <li>👯 I’m looking to collaborate on <b>full stack project.</b></li>
+        <li>🤝 I’m looking for help with <b>build 3D website.</b></li>
+        <li>🌱 I’m currently learning <b>all JS Library.</b></li>
+        <li>💬 Ask me about <b>MERN stack related.</b></li>
+        <li>📫 How to reach me <b><a href="mailto:connects.niladri@gmail.com">Gmail</a></b></li>
+        <li>👨‍💻 All of my projects are available at <b><a href="https://niladri1.netlify.app/">Portfolio</a></b></li>
+        <li>📄 Know about my experiences <b><a href="https://niladri1.netlify.app/src/pdf/Niladri_Chatterjee(CV).pdf">CV</a></b></li>
+    </ul>
+    <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="180em" />
+</div>
+
 
 <h3 align="left">Socials:</h3>
-<div>
-    <a href="mailto:connects.niladri@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<div align="center">
+    <a href="mailto:connects.niladri@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
     <a href="https://github.com/niladri-1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
     </a>
     <a href="https://twitter.com/your-twitter-username" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
     </a>
+
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -41,16 +50,17 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/niladri-1" target="_blank">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="180em" alt="GitHub Stats" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niladri-1&theme=2077" height="180em" alt="Most Commit Language" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niladri-1&theme=2077" height="180em" alt="Repos per Language" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niladri-1&theme=2077" height="180em" alt="Productive Time" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niladri-1&theme=2077" height="180em" alt="Profile Details" />
+<a href="https://github.com/niladri-1">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niladri-1&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niladri-1&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niladri-1&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niladri-1&theme=2077" height="180em" />
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
