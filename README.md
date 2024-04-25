@@ -2,11 +2,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Niladri's+GitHub!;3%2B+years+experienced+Web+Developer!;I+love+making+cool+websites!&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
-
 <h2 align="center">Hey there, I'm <a href="https://github.com/niladri-1">Niladri Chatterjee</a></h3>
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="200em" />
 
