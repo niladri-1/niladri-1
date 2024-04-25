@@ -1,4 +1,3 @@
-## Introduction
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Niladri's+GitHub!;3%2B+years+experienced+Web+Developer!;I+love+making+cool+websites!&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a></p>
 <h2 align="center">Hey there, I'm <a href="https://github.com/niladri-1">Niladri Chatterjee</a></h3>
