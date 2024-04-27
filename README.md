@@ -3,8 +3,6 @@
 <h2 align="center">Hey there, I'm <a href="https://github.com/niladri-1">Niladri Chatterjee</a></h3>
 <h3 align="center">I'm a Computer Science student passionate about Coding and Technology.</h3>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=niladri-1)
-
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="200em" />
 
 - 🔭 I’m currently working on <b>every thing.</b>
