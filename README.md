@@ -16,7 +16,7 @@
 
 <h3 align="center">Socials</h3>
 <div align="center">
-    <a href="mailto:connects.niladri@gmail.com">
+    <a href="mailto:code.niladri@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-E34F26?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/niladri1" target="_blank">
@@ -25,12 +25,9 @@
     <a href="https://github.com/niladri-1" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-%23323330?style=for-the-badge&logo=github&logoColor=white" target="_blank">
     </a>
-    <a href="https://twitter.com/coding_niladri" target="_blank">
+    <a href="https://twitter.com/niladri_01" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
     </a>
-    <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-</a>
 
 
 </div>
