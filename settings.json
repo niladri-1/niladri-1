@@ -108,7 +108,7 @@
 	"explorer.sortOrder": "type",
 	"editor.scrollbar.horizontal": "hidden",
 	"editor.minimap.enabled": false,
-	"workbench.colorTheme": "Red One Dark Pro | Mirage",
+	"workbench.colorTheme": "One Dark Pro Flat",
 	"workbench.editor.showTabs": "none",
 	"workbench.editor.limit.value": 1,
 	"workbench.editor.limit.enabled": true
