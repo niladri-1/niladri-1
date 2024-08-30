@@ -1,12 +1,14 @@
 {
 	"workbench.startupEditor": "none",
+	"workbench.colorTheme": "One Dark Pro Flat",
 	"workbench.productIconTheme": "fluent-icons",
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.fontFamily": "'JetBrains Mono'",
 	"workbench.editor.enablePreview": false,
-	"workbench.activityBar.location": "top",
 	"workbench.list.smoothScrolling": true,
+	"workbench.activityBar.location": "top",
 	"workbench.layoutControl.enabled": false,
 	"workbench.tree.indent": 25,
-	"workbench.iconTheme": "material-icon-theme",
 	"editor.fontSize": 14.5,
 	"editor.lineHeight": 28,
 	"editor.mouseWheelZoom": true,
@@ -21,7 +23,6 @@
 	"editor.cursorSmoothCaretAnimation": "on",
 	"editor.rename.enablePreview": false,
 	"editor.smoothScrolling": true,
-	"editor.fontFamily": "'JetBrains Mono'",
 	"editor.fontLigatures": true,
 	"editor.tokenColorCustomizations": {
 		"textMateRules": [
@@ -52,7 +53,6 @@
 	"editor.guides.indentation": false,
 	"editor.wordWrap": "on",
 	"editor.cursorWidth": 3,
-	"editor.stickyScroll.enabled": true,
 	"editor.matchBrackets": "never",
 	"editor.autoClosingDelete": "always",
 	"editor.lightbulb.enabled": "off",
@@ -73,11 +73,8 @@
 	"git.enableSmartCommit": true,
 	"code-runner.runInTerminal": true,
 	"code-runner.ignoreSelection": true,
-	"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, UseTab: Never, IndentWidth: 4, TabWidth: 4, BreakBeforeBraces: Attach, AllowShortIfStatementsOnASingleLine: false, IndentCaseLabels: false, ColumnLimit: 0, AccessModifierOffset: -4 }",
+	"C_Cpp.clang_format_fallbackStyle": "{BreakBeforeBraces: Attach}",
 	"cmake.configureOnOpen": true,
-	"[html]": {
-		"editor.defaultFormatter": "vscode.html-language-features"
-	},
 	"html.hover.references": false,
 	"css.hover.references": false,
 	"css.lint.unknownAtRules": "ignore",
@@ -108,8 +105,8 @@
 	"explorer.sortOrder": "type",
 	"editor.scrollbar.horizontal": "hidden",
 	"editor.minimap.enabled": false,
-	"workbench.colorTheme": "One Dark Pro Flat",
 	"workbench.editor.showTabs": "none",
-	"workbench.editor.limit.value": 1,
-	"workbench.editor.limit.enabled": true
+	"workbench.editor.limit.value": 2,
+	"workbench.editor.limit.enabled": true,
+	"editor.stickyScroll.enabled": false,
 }
