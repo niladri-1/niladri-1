@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/react-%2307405e.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" style="border-radius: 10px;">
   <img src="https://img.shields.io/badge/node.js-4A773C?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="border-radius: 10px;">
   <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 10px;">
-  <img src="https://img.shields.io/badge/MongoDB-%3A8F3A.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="border-radius: 10px;">
+  <img src="https://img.shields.io/badge/MongoDB-%225522.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="border-radius: 10px;">
   <img src="https://img.shields.io/badge/firebase-%2302569B.svg?style=for-the-badge&logo=firebase&logoColor=yellow" alt="Firebase" style="border-radius: 10px;">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" style="border-radius: 10px;">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="border-radius: 10px;">
