@@ -12,7 +12,7 @@
 - 💬 Ask me about <b>MERN Stack Development related.</b>
 - 📫 How to reach me <b><a href="mailto:code.niladri@gmail.com">Gmail</a></b>
 - 👨‍💻 All of my projects are available at <b><a href="https://niladri1.netlify.app/">Portfolio</a></b>
-- 📄 Know about my experiences <b><a href="https://niladri1.netlify.app/src/pdf/Niladri_Chatterjee(CV).pdf">CV</a></b>
+- 📄 Know about my experiences <b><a href="https://github.com/niladri-1/niladri-1/blob/main/Niladri_Chatterjee_Resume.pdf">CV</a></b>
 
 <h3 align="center">Socials</h3>
 <div align="center">
