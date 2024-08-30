@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/niladri1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;"></a>
   <a href="https://github.com/niladri-1" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 10px;"></a>
   <a href="https://twitter.com/niladri_01" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 10px;"></a>
-  <a href="https://www.hackerrank.com/profile/niladri1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" style="border-radius: 10px;"></a>
+  <a href="https://www.hackerrank.com/profile/niladri1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-208a46?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" style="border-radius: 10px;"></a>
   <a href="https://leetcode.com/u/niladri1/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="border-radius: 10px;"></a>
 </p>
 
