@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/niladri-1/niladri-1/blob/main/settings.json" download>
-    <img src="https://img.shields.io/badge/Download%20VS%20Code%20Settings-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Download VS Code Settings" style="border-radius: 10px; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Get%20VS%20Code%20Settings-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Download VS Code Settings" style="border-radius: 10px; margin-right: 10px;">
   </a>
   <a href="https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf" download>
     <img src="https://img.shields.io/badge/Download%20JetBrains%20Font-%234B5F8C.svg?style=for-the-badge&logo=download&logoColor=white" alt="Download JetBrains Font" style="border-radius: 10px;">
