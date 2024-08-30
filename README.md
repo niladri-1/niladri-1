@@ -18,12 +18,12 @@
 
 <h3 align="center">🌐 Find me on</h3>
 <p align="center">
-  <a href="mailto:code.niladri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-E34F26?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 10px;"></a>
-  <a href="https://www.linkedin.com/in/niladri1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;"></a>
-  <a href="https://github.com/niladri-1" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23323330?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 10px;"></a>
+  <a href="mailto:code.niladri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 10px;"></a>
+  <a href="https://www.linkedin.com/in/niladri1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;"></a>
+  <a href="https://github.com/niladri-1" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 10px;"></a>
   <a href="https://twitter.com/niladri_01" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 10px;"></a>
   <a href="https://www.hackerrank.com/profile/niladri1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" style="border-radius: 10px;"></a>
-  <a href="https://leetcode.com/u/niladri1/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FCA121?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="border-radius: 10px;"></a>
+  <a href="https://leetcode.com/u/niladri1/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="border-radius: 10px;"></a>
 </p>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
