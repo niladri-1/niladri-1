@@ -10,7 +10,7 @@
 - 🤝 I’m looking for help with <b>build 3D website.</b>
 - 🌱 I’m currently learning <b>all JS Library.</b>
 - 💬 Ask me about <b>MERN Stack Development related.</b>
-- 📫 How to reach me <b><a href="mailto:connects.niladri@gmail.com">Gmail</a></b>
+- 📫 How to reach me <b><a href="mailto:code.niladri@gmail.com">Gmail</a></b>
 - 👨‍💻 All of my projects are available at <b><a href="https://niladri1.netlify.app/">Portfolio</a></b>
 - 📄 Know about my experiences <b><a href="https://niladri1.netlify.app/src/pdf/Niladri_Chatterjee(CV).pdf">CV</a></b>
 
