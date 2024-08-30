@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile;Turning+ideas+into+easy+to+use+code;Making+projects+work+smoothly+and+look+great;Bringing+web+ideas+into+clean+code;Creating+practical+and+stylish+web+solutions;Building+simple+and+effective+web+apps&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
 </p>
 
-<h2 align="center">👋 Hi, I'm <Niladri Chatterjee</h2>
+<h2 align="center">👋 Hi, I'm Niladri Chatterjee</h2>
 <h3 align="center">💻 Computer Science student with a passion for coding and technology.</h3>
 
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="200em" style="border-radius: 10px;" />
