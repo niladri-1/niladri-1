@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile;Turning+ideas+into+easy+to+use+code;Making+projects+work+smoothly+and+look+great;Bringing+web+ideas+into+clean+code;Creating+practical+and+stylish+web+solutions;Building+simple+and+effective+web+apps&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
 </p>
 
-<h2 align="center">👋 Hi, I'm <a href="https://github.com/niladri-1">Niladri Chatterjee</a></h2>
+<h2 align="center">👋 Hi, I'm <Niladri Chatterjee</h2>
 <h3 align="center">💻 Computer Science student with a passion for coding and technology.</h3>
 
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="200em" style="border-radius: 10px;" />
@@ -16,7 +16,7 @@
 - 📫 Reach me at: <b><a href="mailto:code.niladri@gmail.com">Email</a></b>
 - 👨‍💻 Check out my work: <b><a href="https://niladri1.netlify.app">Portfolio</a></b>
 
-<h3 align="center">🌐 Find me on:</h3>
+<h3 align="center">🌐 Find me on</h3>
 <p align="center">
   <a href="mailto:code.niladri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-E34F26?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 10px;"></a>
   <a href="https://www.linkedin.com/in/niladri1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;"></a>
