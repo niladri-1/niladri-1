@@ -45,7 +45,7 @@
 <h3 align="center">🚀 Set Up VS Code</h3>
 
 <p align="center">
-  <a href="https://github.com/niladri-1/niladri-1/raw/main/settings.json" download>
+  <a href="https://github.com/niladri-1/niladri-1/blob/main/settings.json" download>
     <img src="https://img.shields.io/badge/Download%20VS%20Code%20Settings-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Download VS Code Settings" style="border-radius: 10px; margin-right: 10px;">
   </a>
   <a href="https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf" download>
