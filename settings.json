@@ -106,6 +106,7 @@
 	"workbench.editor.limit.value": 1,
 	"workbench.editor.limit.enabled": true,
 	"workbench.editor.limit.perEditorGroup": true,
-	"explorer.decorations.badges": false,
+	// "explorer.decorations.badges": false,
+	"editor.stickyScroll.enabled": true,
 	"editor.lineNumbers": "off",
 }
