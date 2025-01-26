@@ -1,117 +1,117 @@
 {
-	"workbench.startupEditor": "none",
-	"workbench.productIconTheme": "fluent-icons",
-	"editor.fontFamily": "'JetBrains Mono'",
-	"workbench.editor.enablePreview": false,
-	"workbench.list.smoothScrolling": true,
-	"workbench.activityBar.location": "top",
-	"workbench.tree.indent": 30,
-	"editor.fontSize": 14.5,
-	"editor.lineHeight": 28,
-	"editor.mouseWheelZoom": true,
-	"editor.cursorBlinking": "phase",
-	"editor.renderWhitespace": "none",
-	"editor.linkedEditing": true,
-	"editor.codeLens": false,
-	"editor.parameterHints.enabled": false,
-	"editor.suggest.insertMode": "replace",
-	"editor.hover.enabled": false,
-	// "editor.hover.delay": 1000,
-	"editor.formatOnSave": true,
-	"editor.cursorSmoothCaretAnimation": "on",
-	"editor.rename.enablePreview": false,
-	"editor.smoothScrolling": true,
-	"editor.fontLigatures": true,
-	"editor.tokenColorCustomizations": {
+	"workbench.startupEditor": "none", // No welcome screen when opening VS Code
+	"workbench.productIconTheme": "fluent-icons", // Changes the style of icons in the UI
+	"editor.fontFamily": "'JetBrains Mono'", // Sets the font used in the editor
+	"workbench.editor.enablePreview": false, // Opens files in full tabs instead of preview mode
+	"workbench.list.smoothScrolling": true, // Makes scrolling feel smoother
+	"workbench.activityBar.location": "top", // Moves the sidebar icons (Explorer, Git, etc.) to the top
+	"workbench.tree.indent": 30, // Sets indentation level for the file tree
+	"editor.fontSize": 14.5, // Sets the font size of the code
+	"editor.lineHeight": 28, // Controls the spacing between lines of text
+	"editor.mouseWheelZoom": true, // Allows zooming with the mouse wheel
+	"editor.cursorBlinking": "phase", // Changes how the cursor blinks
+	"editor.renderWhitespace": "none", // Hides spaces and tab indicators
+	"editor.linkedEditing": true, // Renaming one tag auto-renames the closing tag (useful for HTML)
+	"editor.codeLens": false, // Hides extra information above functions
+	"editor.parameterHints.enabled": false, // Disables function parameter hints
+	"editor.suggest.insertMode": "replace", // Replaces text instead of inserting suggestions
+	"editor.hover.enabled": false, // Disables pop-up previews when hovering over text
+	// "editor.hover.delay": 1000, // (Commented out) Would delay hover pop-ups
+	"editor.formatOnSave": true, // Auto-formats code when saving
+	"editor.cursorSmoothCaretAnimation": "on", // Makes cursor movement smoother
+	"editor.rename.enablePreview": false, // Directly renames without showing a preview
+	"editor.smoothScrolling": true, // Enables smooth scrolling
+	"editor.fontLigatures": true, // Enables special character combinations in fonts (like `=>`)
+	"editor.tokenColorCustomizations": { // Makes certain types of code italic
 		"textMateRules": [
 			{
-				"scope": [
-					"comment",
-					"entity.name.type.class",
-					"keyword",
-					"storage.modifier",
-					"storage.type",
-					"support.class.builtin",
-					"keyword.control",
-					"constant.language",
-					"entity.other.attribute-name",
-					"string.quoted.single",
-					"entity.name.method",
-					"entity.name.tag",
-					"entity.name.function",
-					"variable.other.readwrite"
+				"scope": [ 
+					"comment", // Makes comments italic
+					"entity.name.type.class", // Class names in italic
+					"keyword", // Keywords in italic
+					"storage.modifier", // Modifiers in italic
+					"storage.type", // Data types in italic
+					"support.class.builtin", // Built-in classes in italic
+					"keyword.control", // Control keywords in italic
+					"constant.language", // Constant values in italic
+					"entity.other.attribute-name", // Attribute names in italic
+					"string.quoted.single", // Strings in single quotes in italic
+					"entity.name.method", // Methods in italic
+					"entity.name.tag", // HTML tags in italic
+					"entity.name.function", // Functions in italic
+					"variable.other.readwrite" // Read/write variables in italic
 				],
 				"settings": {
-					"fontStyle": "italic"
+					"fontStyle": "italic" // Applies italic style to the above scopes
 				}
 			}
 		]
 	},
-	"editor.tabSize": 4,
-	"editor.guides.indentation": false,
-	"editor.wordWrap": "on",
-	"editor.cursorWidth": 3,
-	"editor.matchBrackets": "never",
-	"editor.autoClosingDelete": "always",
-	"editor.lightbulb.enabled": "off",
-	"editor.guides.bracketPairs": "active",
-	"terminal.integrated.cursorBlinking": true,
-	"terminal.integrated.cursorStyle": "line",
-	"terminal.integrated.cursorWidth": 2,
-	"terminal.integrated.smoothScrolling": true,
-	"terminal.integrated.fontFamily": "JetBrains Mono",
-	"terminal.integrated.fontWeight": "normal",
-	"terminal.integrated.fontSize": 14,
-	"files.autoSave": "afterDelay",
-	"files.trimTrailingWhitespace": true,
-	"files.associations": {
-		"*.css": "css",
+	"editor.tabSize": 4, // Tabs will be 4 spaces wide
+	"editor.guides.indentation": false, // Disables indentation guides
+	"editor.wordWrap": "on", // Wraps long lines instead of scrolling horizontally
+	"editor.cursorWidth": 3, // Makes the cursor slightly wider
+	"editor.matchBrackets": "never", // Disables bracket matching highlights
+	"editor.autoClosingDelete": "always", // Deletes paired brackets automatically
+	"editor.lightbulb.enabled": "off", // Hides suggestion lightbulbs
+	"editor.guides.bracketPairs": "active", // Highlights only the active bracket pair
+	"terminal.integrated.cursorBlinking": true, // Makes the cursor blink in the terminal
+	"terminal.integrated.cursorStyle": "line", // Changes the cursor to a line in the terminal
+	"terminal.integrated.cursorWidth": 2, // Makes the terminal cursor slightly thicker
+	"terminal.integrated.smoothScrolling": true, // Enables smooth scrolling in the terminal
+	"terminal.integrated.fontFamily": "JetBrains Mono", // Sets the terminal font
+	"terminal.integrated.fontWeight": "normal", // Normal font weight in the terminal
+	"terminal.integrated.fontSize": 14, // Font size in the terminal
+	"files.autoSave": "afterDelay", // Automatically saves files after a short delay
+	"files.trimTrailingWhitespace": true, // Removes extra spaces at the end of lines when saving
+	"files.associations": { // Helps VS Code recognize file types correctly
+		"*.css": "css" // Associates .css files with the CSS language
 	},
-	"git.autofetch": true,
-	"git.enableSmartCommit": true,
-	"code-runner.runInTerminal": true,
-	"code-runner.ignoreSelection": true,
-	"C_Cpp.clang_format_fallbackStyle": "{BreakBeforeBraces: Attach}",
-	"html.hover.references": false,
-	"css.hover.references": false,
-	"css.lint.unknownAtRules": "ignore",
-	"css.lint.vendorPrefix": "ignore",
-	"explorer.confirmDragAndDrop": false,
-	"explorer.confirmDelete": false,
-	"window.title": "${activeEditorMedium}",
-	"breadcrumbs.enabled": false,
-	"material-icon-theme.hidesExplorerArrows": true,
-	"debug.showVariableTypes": true,
-	"liveServer.settings.donotShowInfoMsg": true,
-	"codeium.enableCommandSideHintEducation": false,
-	"diffEditor.ignoreTrimWhitespace": true,
-	"window.newWindowDimensions": "inherit",
-	"editor.snippetSuggestions": "top",
-	"editor.detectIndentation": false,
-	"editor.insertSpaces": false,
-	"workbench.tips.enabled": false,
-	"editor.selectionHighlight": false,
-	"editor.overviewRulerBorder": false,
-	"editor.renderLineHighlight": "none",
-	"editor.occurrencesHighlight": "off",
-	"editor.hideCursorInOverviewRuler": true,
-	"explorer.sortOrder": "type",
-	"editor.scrollbar.horizontal": "hidden",
-	"editor.scrollbar.vertical": "hidden",
-	"workbench.editor.showTabs": "none",
-	"workbench.editor.limit.value": 1,
-	"workbench.editor.limit.enabled": true,
-	"workbench.editor.limit.perEditorGroup": true,
-	"editor.lineNumbers": "off",
-	"editor.suggest.showWords": false,
-	"window.menuBarVisibility": "toggle",
-	"workbench.navigationControl.enabled": false,
-	"workbench.layoutControl.enabled": false,
-	"window.commandCenter": false,
-	"editor.minimap.enabled": true,
-	"workbench.colorTheme": "One Dark Pro Darker",
-	"workbench.iconTheme": "material-icon-theme",
-	"editor.accessibilitySupport": "off",
-	"editor.formatOnPaste": true,
-	"editor.minimap.showSlider": "always",
+	"git.autofetch": true, // Automatically fetches updates from Git
+	"git.enableSmartCommit": true, // Allows quick Git commits without selecting files
+	"code-runner.runInTerminal": true, // Runs code in the terminal instead of the output window
+	"code-runner.ignoreSelection": true, // Runs the whole file, not just the selected part
+	"C_Cpp.clang_format_fallbackStyle": "{BreakBeforeBraces: Attach}", // Formatting style for C++
+	"html.hover.references": false, // Disables pop-ups when hovering over HTML elements
+	"css.hover.references": false, // Disables pop-ups when hovering over CSS properties
+	"css.lint.unknownAtRules": "ignore", // Ignores unknown CSS rules
+	"css.lint.vendorPrefix": "ignore", // Ignores vendor prefixes (like `-webkit-`)
+	"explorer.confirmDragAndDrop": false, // No confirmation when dragging and dropping files
+	"explorer.confirmDelete": false, // No confirmation when deleting files
+	"window.title": "${activeEditorMedium}", // Shows the file name in the window title
+	"breadcrumbs.enabled": false, // Disables breadcrumbs navigation
+	"material-icon-theme.hidesExplorerArrows": true, // Hides arrows in the file explorer
+	"debug.showVariableTypes": true, // Shows variable types in debugging mode
+	"liveServer.settings.donotShowInfoMsg": true, // Hides Live Server pop-up messages
+	"codeium.enableCommandSideHintEducation": false, // Disables Codeium AI tooltips
+	"diffEditor.ignoreTrimWhitespace": true, // Ignores extra spaces when comparing files
+	"window.newWindowDimensions": "inherit", // Opens new windows with the same size as the previous one
+	"editor.snippetSuggestions": "top", // Shows code snippets at the top of suggestions
+	"editor.detectIndentation": false, // Disables automatic indentation detection
+	"editor.insertSpaces": false, // Uses tabs instead of spaces
+	"workbench.tips.enabled": false, // Disables VS Code tips and hints
+	"editor.selectionHighlight": false, // Disables highlighting similar words
+	"editor.overviewRulerBorder": false, // Removes the border around the scroll bar
+	"editor.renderLineHighlight": "none", // Disables highlighting the active line
+	"editor.occurrencesHighlight": "off", // Disables word highlighting when clicking
+	"editor.hideCursorInOverviewRuler": true, // Hides cursor in the scrollbar preview
+	"explorer.sortOrder": "type", // Sorts files in the explorer by type
+	"editor.scrollbar.horizontal": "hidden", // Hides the horizontal scrollbar
+	"editor.scrollbar.vertical": "hidden", // Hides the vertical scrollbar
+	"workbench.editor.showTabs": "none", // Hides open file tabs
+	"workbench.editor.limit.value": 1, // Limits the number of open files to 1
+	"workbench.editor.limit.enabled": true, // Enables tab limit
+	"workbench.editor.limit.perEditorGroup": true, // Applies tab limit to each section
+	"editor.lineNumbers": "off", // Hides line numbers
+	"editor.suggest.showWords": false, // Disables word suggestions
+	"window.menuBarVisibility": "toggle", // Hides menu bar unless pressed Alt
+	"workbench.navigationControl.enabled": false, // Disables extra navigation buttons
+	"workbench.layoutControl.enabled": false, // Disables layout control settings
+	"window.commandCenter": false, // Hides command center
+	"editor.minimap.enabled": true, // Shows a small code overview on the right
+	"workbench.colorTheme": "One Dark Pro Darker", // Changes the color theme
+	"workbench.iconTheme": "material-icon-theme", // Changes file and folder icons
+	"editor.accessibilitySupport": "off", // Disables extra accessibility settings
+	"editor.formatOnPaste": true, // Auto-formats code when pasting
+	"editor.minimap.showSlider": "always" // Always shows the slider in the minimap
 }
