@@ -8,23 +8,23 @@
 
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="200em"  />
 
-- 🔭 Currently working on <b>various projects</b>
-- 👯 Looking to collaborate on <b>full-stack projects</b>
-- 🤝 Seeking assistance with <b>building a 3D website</b>
-- 🌱 Learning <b>all JavaScript libraries</b>
-- 💬 Ask me about <b>MERN Stack</b>
-- 📄 View my <b><a href="https://drive.google.com/file/d/1l0wBLf9mdR2uaUq1J13qlaUKeDJhIQHn/view?usp=drive_link">Resume</a></b>
-- 📫 Reach me at: <b><a href="mailto:code.niladri@gmail.com">Email</a></b>
-- 👨‍💻 Check out my work: <b><a href="https://niladri1.netlify.app">Portfolio</a></b>
+- 🔭 Currently working on <b>Real Time Projects</b>.
+- 👯 Looking to collaborate on <b>Building 3D website</b>.
+- 🤝 Seeking assistance with <b>Full Stack Projects</b>.
+- 🌱 Learning <b>MERN Stack Concepts</b>.
+- 💬 Ask me about <b>Software Development</b>.
+- 📄 View my <b><a target="_blank" href="https://drive.google.com/file/d/1zKa2yqWijwSHUmjb-g8xvNQSGa3O692s/view?pli=1">Resume</a></b>
+- 📫 Reach me at: <b><a target="_blank" href="mailto:code.niladri@gmail.com">Email</a></b>
+- 👨‍💻 Check out my: <b><a target="_blank" href="https://niladri1.vercel.app">Portfolio</a></b>
 
 <h3 align="center">🌐 Find me on</h3>
 <p align="center">
-  <a href="mailto:code.niladri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 15px;"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/niladri1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" ></a>&nbsp;
-  <a href="https://github.com/niladri-1" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" ></a>&nbsp;
-  <a href="https://twitter.com/niladri_01" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" ></a>&nbsp;
-  <a href="https://www.hackerrank.com/profile/niladri1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-208a46?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" ></a>&nbsp;
-  <a href="https://leetcode.com/u/niladri1/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FF8C00?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" ></a>&nbsp;
+  <a target="_blank" href="mailto:code.niladri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 15px;"></a>&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/niladri1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" ></a>&nbsp;
+  <a target="_blank" href="https://github.com/niladri-1" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" ></a>&nbsp;
+  <a target="_blank" href="https://twitter.com/niladri_01" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" ></a>&nbsp;
+  <a target="_blank" href="https://www.hackerrank.com/profile/niladri1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-208a46?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" ></a>&nbsp;
+  <a target="_blank" href="https://leetcode.com/u/niladri1/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FF8C00?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" ></a>&nbsp;
 </p>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
@@ -45,7 +45,7 @@
 
 <h3 align="center">🚀 Visual Studio Code Setup Guide</h3>
 <p align="center">
-  <a href="https://github.com/niladri-1/niladri-1/blob/main/settings.json" download>
+  <a target="_blank" href="https://github.com/niladri-1/niladri-1/blob/main/settings.json" download>
     <img src="https://img.shields.io/badge/Download%20VS%20Code%20Settings-%23003366.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Download VS Code Settings">
   </a>
   &nbsp; &nbsp;
