@@ -57,6 +57,19 @@
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
+<h3 align="center">📌 Pinned Projects</h3>
+<p align="center">
+  <a href="https://github.com/niladri-1/Chatting-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niladri-1&repo=Chatting-app&theme=radical" />
+  </a>
+  <a href="https://github.com/niladri-1/LiveDocs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niladri-1&repo=LiveDocs&theme=radical" />
+  </a>
+  <a href="https://github.com/niladri-1/Video-Conferencing-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niladri-1&repo=Video-Conferencing-App&theme=radical" />
+  </a>
+</p>
+
 <h3 align="center">🚀 Visual Studio Code Setup Guide</h3>
 <p align="center">
   <a target="_blank" href="https://github.com/niladri-1/niladri-1/blob/main/settings.json" download>
