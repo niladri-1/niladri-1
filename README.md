@@ -29,18 +29,34 @@
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">&nbsp;
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">&nbsp;
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">&nbsp;
-  <img src="https://img.shields.io/badge/react-%2307405e.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">&nbsp;
-  <img src="https://img.shields.io/badge/node.js-4A773C?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-003b57?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-%23225522.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;
-  <img src="https://img.shields.io/badge/firebase-%2302569B.svg?style=for-the-badge&logo=firebase&logoColor=yellow" alt="Firebase">&nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">&nbsp;
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;
+   <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-%231E415E?style=for-the-badge&logo=python&logoColor=%23FFD43B" alt="Python">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-%23C13514.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%233573A6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7B93E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TailwindCSS-%230D9488.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/React-%23149ECA.svg?style=for-the-badge&logo=react&logoColor=black" alt="React.js">
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-%23359341.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-%23232323.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/WebSockets-%23FF7B00.svg?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets">
+  <!-- Databases & Cloud -->
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Cloudinary-%23F2801E.svg?style=for-the-badge&logo=cloudinary&logoColor=black" alt="Cloudinary">
+  <!-- Authentication & Security -->
+  <img src="https://img.shields.io/badge/OAuth-%232C8BC6.svg?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth">
+  <img src="https://img.shields.io/badge/Liveblocks-%23000000.svg?style=for-the-badge&logoColor=white" alt="Liveblocks">
+  <!-- Version Control & DevOps -->
+  <img src="https://img.shields.io/badge/Git-%23E84E31.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-%23171717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Docker-%23176D65.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/CI%2FCD-%232A5FCD.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD">
+  <!-- Other Tools -->
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
 <h3 align="center">🚀 Visual Studio Code Setup Guide</h3>
