@@ -68,6 +68,9 @@
   <a href="https://github.com/niladri-1/Video-Conferencing-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niladri-1&repo=Video-Conferencing-App&theme=radical" />
   </a>
+  <a href="https://github.com/niladri-1/Figma-Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=niladri-1&repo=Figma-Clone&theme=radical" />
+  </a>
 </p>
 
 <h3 align="center">🚀 Visual Studio Code Setup Guide</h3>
