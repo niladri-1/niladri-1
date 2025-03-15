@@ -2,7 +2,11 @@
 <h3 align="center">💻 Computer Science student with a passion for coding and technology.</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+real-time,+scalable+web+apps+with+precision;Optimizing+performance,+one+line+of+code+at+a+time;Turning+complex+ideas+into+seamless+digital+experiences;Empowering+collaboration+with+real-time+solutions;Code,+deploy,+innovate—repeat!;Crafting+intuitive+and+high-performance+web+applications;Bridging+the+gap+between+design+and+functionality;&font=Fira%20Code&center=true&width=800&height=45&color=fff&vCenter=true&pause=1000&size=25" />
+<!-- <img src="https://readme-typing-svg.demolab.com/?lines=Building+real-time,+scalable+web+apps+with+precision;Optimizing+performance,+one+line+of+code+at+a+time;Turning+complex+ideas+into+seamless+digital+experiences;Empowering+collaboration+with+real-time+solutions;Code,+deploy,+innovate—repeat!;Crafting+intuitive+and+high-performance+web+applications;Bridging+the+gap+between+design+and+functionality;&font=Fira%20Code&center=true&width=800&height=45&color=fff&vCenter=true&pause=1000&size=25" /> -->
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+real-time,+scalable+web+apps+with+precision;Optimizing+performance,+one+line+of+code+at+a+time;Turning+complex+ideas+into+seamless+digital+experiences;Empowering+collaboration+with+real-time+solutions;Code,+deploy,+innovate—repeat!;Crafting+intuitive+and+high-performance+web+applications;Bridging+the+gap+between+design+and+functionality;&font=Fira%20Code&center=true&width=900&height=50&color=32CD32&vCenter=true&pause=800&size=28&repeat=true" />
+
+
 </p>
 
 
