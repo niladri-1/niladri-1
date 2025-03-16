@@ -20,7 +20,7 @@
 
 ---
 
-<h3 align="center">🌐 Find me on</h3>
+<h3 align="center">Connect with me 🤝</h3>
 <p align="center">
   <a href="tel:+916296554939" target="_blank">
     <img src="https://img.shields.io/badge/Phone-%2B91%206296554939-2C2C2C?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
@@ -45,7 +45,7 @@
 
 ---
 
-<h3 align="center">🛠️ Technologies & Tools</h3>
+<h3 align="center">Technologies Skills 🛠️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-%231E415E?style=for-the-badge&logo=python&logoColor=%23FFD43B" alt="Python">
