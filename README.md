@@ -16,9 +16,11 @@
 - 📫 Reach me at: <b><a target="_blank" href="mailto:code.niladri@gmail.com">Email</a></b>
 - 👨‍💻 Check out my: <b><a target="_blank" href="https://niladri1.vercel.app">Portfolio</a></b>
 
-<br>
+
 
 <h3 align="center">🌐 Find me on</h3>
+
+---
 <p align="center">
   <a target="_blank" href="mailto:code.niladri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 15px;"></a>&nbsp;
   <a target="_blank" href="https://www.linkedin.com/in/niladri1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" ></a>&nbsp;
@@ -27,9 +29,10 @@
   <a target="_blank" href="https://leetcode.com/u/niladri1/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FF8C00?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" ></a>&nbsp;
 </p>
 
-<br>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
+
+---
 <p align="center">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-%231E415E?style=for-the-badge&logo=python&logoColor=%23FFD43B" alt="Python">
@@ -53,10 +56,11 @@
   <img src="https://img.shields.io/badge/CI%2FCD-%232A5FCD.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD">
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
-<br>
+
 
 <h3 align="center">Minimalist VS Code Setup ☕</h3>
 
+---
 <p align="center">Want your VS Code to look minimalist, like this? 🤔</p>
 
 <p align="center">
@@ -76,10 +80,9 @@
   </a>
 </p>
 
+<h3 align="center"> 🚀 Quick Setup in 3 Steps</h3>
+
 ---
-
-### 🚀 Quick Setup in 3 Steps
-
 <table align="center">
   <tr>
     <td>✅ <b>Step 1</b>: Install the sleek <b>JetBrains Mono</b> font.</td>
