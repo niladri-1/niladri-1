@@ -78,12 +78,16 @@
   <a target="_blank" href="https://github.com/niladri-1/niladri-1/blob/main/settings.json" download>
     <img src="https://img.shields.io/badge/Download%20VS%20Code%20Settings-%23003366.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Download VS Code Settings">
   </a>
-  &nbsp; &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf" download>
     <img src="https://img.shields.io/badge/Download%20JetBrains%20Mono%20Font-%231E3A8A.svg?style=for-the-badge&logo=download&logoColor=white" alt="Download JetBrains Mono Font">
   </a>
-  <img align="right" src="https://github.com/niladri-1/niladri-1/blob/main/VS_Code_demo.png" height="200px">
 </p>
+
+<p align="center">
+  <img src="https://github.com/niladri-1/niladri-1/blob/main/VS_Code_demo.png" width="500px">
+</p>
+
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
