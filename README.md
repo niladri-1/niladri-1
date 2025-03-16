@@ -75,12 +75,13 @@
 
 <h3 align="center">🚀 Visual Studio Code Setup Guide</h3>
 <p align="center">
-  <a target="_blank" href="https://github.com/niladri-1/niladri-1/blob/main/settings.json" download>
-    <img src="https://img.shields.io/badge/Download%20VS%20Code%20Settings-%23003366.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Download VS Code Settings">
+
+<a href="https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf" download>
+    <img src="https://img.shields.io/badge/Download%20JetBrains%20Mono%20Font-%23800080.svg?style=for-the-badge&logo=download&logoColor=white" alt="Download JetBrains Mono Font">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf" download>
-    <img src="https://img.shields.io/badge/Download%20JetBrains%20Mono%20Font-%231E3A8A.svg?style=for-the-badge&logo=download&logoColor=white" alt="Download JetBrains Mono Font">
+  <a target="_blank" href="https://github.com/niladri-1/niladri-1/blob/main/settings.json" download>
+  <img src="https://img.shields.io/badge/Download%20VS%20Code%20Settings-%23008080.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Download VS Code Settings">
   </a>
 </p>
 
