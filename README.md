@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/niladri-1/niladri-1/refs/heads/main/VS_Code_demo.png" target="_blank">
-    <img src="https://raw.githubusercontent.com/niladri-1/niladri-1/refs/heads/main/VS_Code_demo.png" width="800px" alt="VS Code Setup Preview">
+    <img src="https://raw.githubusercontent.com/niladri-1/niladri-1/refs/heads/main/VS_Code_demo.png" width="500px" alt="VS Code Setup Preview">
   </a>
 </p>
 
