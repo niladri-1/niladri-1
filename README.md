@@ -16,7 +16,7 @@
 - 📫 Reach me at: <b><a target="_blank" href="mailto:code.niladri@gmail.com">Email</a></b>
 - 👨‍💻 Check out my: <b><a target="_blank" href="https://niladri1.vercel.app">Portfolio</a></b>
 
-<br><br><br>
+<br><br>
 
 <h3 align="center">🌐 Find me on</h3>
 <p align="center">
