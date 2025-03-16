@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
-<h3 align="center">📌 Pinned Projects</h3>
+<!-- <h3 align="center">📌 Pinned Projects</h3>
 <p align="center">
   <a href="https://github.com/niladri-1/Chatting-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niladri-1&repo=Chatting-app&theme=radical" />
@@ -71,7 +71,7 @@
   <a href="https://github.com/niladri-1/Figma-Clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=niladri-1&repo=Figma-Clone&theme=radical" />
   </a>
-</p>
+</p> -->
 
 <h3 align="center">🚀 Visual Studio Code Setup Guide</h3>
 <p align="center">
