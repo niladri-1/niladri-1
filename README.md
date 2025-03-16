@@ -52,7 +52,6 @@
 
 <h3 align="center">🚀 Visual Studio Code Setup Guide</h3>
 <p align="center">
-📌 Customize your VS Code for a better coding experience!
 <a href="https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf" download>
     <img src="https://img.shields.io/badge/Download%20JetBrains%20Font-%23800080.svg?style=for-the-badge&logo=download&logoColor=white" alt="Download JetBrains Mono Font">
   </a>
