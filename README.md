@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/CI%2FCD-%232A5FCD.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD">
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
-<br><br><br>
+<br><br>
 
 <h3 align="center">🚀 Visual Studio Code Setup Guide</h3>
 <p align="center">
