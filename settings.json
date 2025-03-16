@@ -1,11 +1,11 @@
 {
 	"workbench.startupEditor": "none",
 	"workbench.productIconTheme": "fluent-icons",
+	"editor.fontSize": 14.5,
 	"editor.fontFamily": "'JetBrains Mono'",
 	"workbench.list.smoothScrolling": true,
 	"workbench.activityBar.location": "top",
 	"workbench.tree.indent": 30,
-	"editor.fontSize": 14.5,
 	"editor.lineHeight": 28,
 	"editor.mouseWheelZoom": true,
 	"editor.cursorBlinking": "phase",
@@ -98,10 +98,9 @@
 	"workbench.editor.limit.value": 1,
 	"workbench.editor.limit.enabled": true,
 	"workbench.editor.limit.perEditorGroup": true,
-	"editor.lineNumbers": "off",
+	"editor.lineNumbers": "on",
 	"editor.suggest.showWords": false,
-	"workbench.colorTheme": "One Dark Pro Darker",
-	"workbench.iconTheme": "material-icon-theme",
+	"workbench.colorTheme": "One Dark Pro Night Flat",
 	"editor.accessibilitySupport": "off",
 	"editor.formatOnPaste": true,
 	"editor.minimap.showSlider": "always",
@@ -112,5 +111,20 @@
 	"window.titleSeparator": "\\",
 	"editor.minimap.autohide": true,
 	"workbench.editor.enablePreview": false,
-	"editor.cursorSurroundingLines": 5
+	"editor.cursorSurroundingLines": 5,
+	"workbench.iconTheme": "material-icon-theme",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"editor.stickyScroll.enabled": false,
+	/* Extensions
+		1. Code Runner
+		2. Live Share
+		3. Codeium AI
+		4. ES7 React/JSX Snippets
+		5. File Tree Extractor
+		6. JSON Creack
+		7. Tailwind CSS Intellisense
+		8. Fluent Icons
+		9. Material Icon Theme
+		10. One Dark Pro
+	*/
 }
