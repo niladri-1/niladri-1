@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/niladri-1/niladri-1/blob/main/VS_Code_demo.png" width="500px">
+  <img src="https://raw.githubusercontent.com/niladri-1/niladri-1/refs/heads/main/VS_Code_demo.png" width="500px">
 </p>
 
 
