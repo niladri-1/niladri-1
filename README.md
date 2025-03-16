@@ -16,7 +16,7 @@
 - 📫 Reach me at: <b><a target="_blank" href="mailto:code.niladri@gmail.com">Email</a></b>
 - 👨‍💻 Check out my: <b><a target="_blank" href="https://niladri1.vercel.app">Portfolio</a></b>
 
-<br><br>
+<br>
 
 <h3 align="center">🌐 Find me on</h3>
 <p align="center">
@@ -26,6 +26,8 @@
   <a target="_blank" href="https://www.hackerrank.com/profile/niladri1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-208a46?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" ></a>&nbsp;
   <a target="_blank" href="https://leetcode.com/u/niladri1/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FF8C00?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" ></a>&nbsp;
 </p>
+
+<br>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
 <p align="center">
@@ -51,23 +53,44 @@
   <img src="https://img.shields.io/badge/CI%2FCD-%232A5FCD.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD">
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
-<br><br>
+<br>
 
-<h3 align="center">🚀 Visual Studio Code Setup Guide</h3>
+<h3 align="center">Minimalist VS Code Setup ☕</h3>
+
+<p align="center">Want your VS Code to look minimalist, like this? 🤔</p>
+
 <p align="center">
-<a href="https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf" download>
+  <a href="https://raw.githubusercontent.com/niladri-1/niladri-1/refs/heads/main/VS_Code_demo.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/niladri-1/niladri-1/refs/heads/main/VS_Code_demo.png" width="800px" alt="VS Code Setup Preview">
+  </a>
+</p>
+
+<p align="center"><i>🔍 Click the image for a full preview!</i></p>
+<p align="center">
+  <a href="https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf" download>
     <img src="https://img.shields.io/badge/Download%20JetBrains%20Font-%23800080.svg?style=for-the-badge&logo=download&logoColor=white" alt="Download JetBrains Mono Font">
   </a>
   &nbsp;&nbsp;
-  <a target="_blank" href="https://github.com/niladri-1/niladri-1/blob/main/settings.json" download>
-  <img src="https://img.shields.io/badge/Get%20VS%20Code%20JSON-%23008080.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Download VS Code Settings">
+  <a href="https://github.com/niladri-1/niladri-1/blob/main/settings.json" download>
+    <img src="https://img.shields.io/badge/Get%20VS%20Code%20JSON-%23008080.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Download VS Code Settings">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/niladri-1/niladri-1/refs/heads/main/VS_Code_demo.png" width="500px">
-</p>
-<p align="center">📌 Click the image to view it in full size!</p>
+---
+
+### 🚀 Quick Setup in 3 Steps
+
+<table align="center">
+  <tr>
+    <td>✅ <b>Step 1</b>: Install the sleek <b>JetBrains Mono</b> font.</td>
+    <td>✅ <b>Step 2</b>: Apply the custom <b>VS Code settings.json</b>.</td>
+    <td>✅ <b>Step 3</b>: Restart VS Code & enjoy the stunning UI! 🎉</td>
+  </tr>
+</table>
+
+---
+
+<p align="center">💻 Level up your coding experience now and code in style! 🚀✨ </p>
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
