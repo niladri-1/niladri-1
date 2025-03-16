@@ -19,14 +19,29 @@
 <br>
 
 ---
+
 <h3 align="center">🌐 Find me on</h3>
 <p align="center">
-  <a target="_blank" href="mailto:code.niladri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 15px;"></a>&nbsp;
-  <a target="_blank" href="https://www.linkedin.com/in/niladri1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" ></a>&nbsp;
-  <a target="_blank" href="https://twitter.com/niladri_01" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" ></a>&nbsp;
-  <a target="_blank" href="https://www.hackerrank.com/profile/niladri1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-208a46?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" ></a>&nbsp;
-  <a target="_blank" href="https://leetcode.com/u/niladri1/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FF8C00?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" ></a>&nbsp;
+  <a href="tel:+916296554939" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-%2B91%206296554939-2C2C2C?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
+  </a>&nbsp;
+  <a href="mailto:code.niladri@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-code.niladri@gmail.com-B22222?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>&nbsp;
+  <a href="https://wa.me/916296554939" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B91%206296554939-1C8C4A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/niladri1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-niladri1-005B8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;
+  <a href="https://niladri1.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>&nbsp;
+  <a href="https://t.me/niladri_chatterjee" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-niladri_chatterjee-006699?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
 </p>
+
 
 ---
 
@@ -85,13 +100,12 @@
   <tr>
     <td>✅ <b>Step 1</b>: Install the sleek <b>JetBrains Mono</b> font.</td>
     <td>✅ <b>Step 2</b>: Apply the custom <b>VS Code settings.json</b>.</td>
-    <td>✅ <b>Step 3</b>: Restart VS Code & enjoy the stunning UI! 🎉</td>
+    <td>✅ <b>Step 3</b>: <b>Restart VS Code</b> & enjoy the stunning UI! 🎉</td>
   </tr>
 </table>
 
 ---
 
 <p align="center">💻 Level up your coding experience now and code in style! 🚀✨ </p>
-
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
