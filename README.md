@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Science student with a passion for coding and technology.</h3>
 
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Design,+Build,+Scale,+Repeat...;Speed,+Security+and+Style+Delivered!;Less+Code,+More+Impact.;Real-time,+all+the+time.;Code+smart,+debug+less.;Functionality+meets+simplicity.;Smooth+performance,+clean+code.;From+idea+to+app—fast!&font=Fira%20Code&center=true&width=850&height=50&color=32CD32&vCenter=true&pause=1500&size=28&repeat=true" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Design,+Build,+Scale,+Repeat;Speed,+Security+and+Style+Delivered!;Less+Code,+More+Impact.;Real-time,+all+the+time.;Code+smart,+debug+less.;Functionality+meets+simplicity.;Smooth+performance,+clean+code.;From+idea+to+app—fast!&font=Fira%20Code&center=true&width=850&height=50&color=32CD32&vCenter=true&pause=1500&size=28&repeat=true" />
 
 
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="200em"  />
