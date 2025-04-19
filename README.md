@@ -120,4 +120,8 @@
 
 <p align="center">💻 Level up your coding experience now and code in style! 🚀✨ </p>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=niladri-1&style=flat-square&color=000000" alt="Profile views" />
+</div>
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
