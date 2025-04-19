@@ -1,10 +1,9 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Niladri Chatterjee</h1>
+
 <h3 align="center">💻 Computer Science student with a passion for coding and technology.</h3>
 
-
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer+%7C+MERN+Specialist;Crafting+elegant+solutions+to+complex+problems;Speed%2C+Security+and+Style+Delivered!;Less+Code%2C+More+Impact.;Real-time%2C+all+the+time." alt="Typing SVG" />
 </div>
 
@@ -19,6 +18,7 @@
 - 📄 View my <b><a target="_blank" href="https://drive.google.com/file/d/1BNtnWhw7RoWeUKu44n-iKRC1ysdY2s8L/view?usp=sharing">Resume</a></b>
 - 📫 Reach me at: <b><a target="_blank" href="mailto:code.niladri@gmail.com">Email</a></b>
 - 👨‍💻 Check out my: <b><a target="_blank" href="https://niladri1.vercel.app">Portfolio</a></b>
+- <img src="https://komarev.com/ghpvc/?username=niladri-1&style=flat-square&color=000000" alt="Profile views" />
 
 <br>
 
@@ -74,13 +74,6 @@
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
----
-
-<!-- Profile visitors with animated counter -->
-<div align="center">
-  <h4>Visitor Count</h4>
-  <img src="https://profile-counter.glitch.me/niladri-1/count.svg" alt="Visitor Count" />
-</div>
 
 ---
 
@@ -119,9 +112,5 @@
 ---
 
 <p align="center">💻 Level up your coding experience now and code in style! 🚀✨ </p>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=niladri-1&style=flat-square&color=000000" alt="Profile views" />
-</div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
