@@ -74,19 +74,6 @@
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
-
----
-
-## <div align="center"> 📊 This Week I Spent My Time On </div>
-
-```text
-JavaScript   15 hrs 41 mins  ████████████▓░░░░░░░░░░░░   50.67 %
-React        8 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
-Node.js      4 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-MongoDB      2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   6.75 %
-CSS          45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   2.46 %
-```
-
 ---
 
 <!-- Profile visitors with animated counter -->
