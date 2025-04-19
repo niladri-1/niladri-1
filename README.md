@@ -90,6 +90,15 @@ CSS          45 mins         ▓░░░░░░░░░░░░░░░░
 
 ---
 
+<!-- Profile visitors with animated counter -->
+<div align="center">
+  <h4>Visitor Count</h4>
+  <img src="https://profile-counter.glitch.me/niladri-1/count.svg" alt="Visitor Count" />
+</div>
+
+---
+
+
 <h3 align="center">Minimalist VS Code Setup ☕</h3>
 <p align="center">Want your VS Code to look minimalist, like this? 🤔</p>
 
@@ -100,15 +109,15 @@ CSS          45 mins         ▓░░░░░░░░░░░░░░░░
 </p>
 
 <p align="center"><i>🔍 Click the image for a full preview!</i></p>
-<p align="center">
-  <a href="https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf" download>
-    <img src="https://img.shields.io/badge/Download%20JetBrains%20Font-%23800080.svg?style=for-the-badge&logo=download&logoColor=white" alt="Download JetBrains Mono Font">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/niladri-1/niladri-1/blob/main/settings.json" download>
-    <img src="https://img.shields.io/badge/Get%20VS%20Code%20JSON-%23008080.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Download VS Code Settings">
-  </a>
-</p>
+  <br>
+  <div align="center">
+    <a href="https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf">
+      <img src="https://img.shields.io/badge/font-JetBrains_Mono-000000?style=flat-square&logo=jetbrains&logoColor=white" />
+    </a>
+    <a href="https://github.com/niladri-1/niladri-1/blob/main/settings.json">
+      <img src="https://img.shields.io/badge/settings-JSON-000000?style=flat-square&logo=visual-studio-code&logoColor=white" />
+    </a>
+  </div>
 
 ---
 
