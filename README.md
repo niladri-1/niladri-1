@@ -1,8 +1,12 @@
-<h1 align="center">👋 Hi, I'm Niladri Chatterjee</h1>
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Niladri Chatterjee</h1>
 <h3 align="center">💻 Computer Science student with a passion for coding and technology.</h3>
 
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Design,+Build,+Scale,+Repeat;Speed,+Security+and+Style+Delivered!;Less+Code,+More+Impact.;Real-time,+all+the+time.;Code+smart,+debug+less.;Functionality+meets+simplicity.;Smooth+performance,+clean+code.;From+idea+to+app—fast!&font=Fira%20Code&center=true&width=850&height=50&color=32CD32&vCenter=true&pause=1500&size=28&repeat=true" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer+%7C+MERN+Specialist;Crafting+elegant+solutions+to+complex+problems;Speed%2C+Security+and+Style+Delivered!;Less+Code%2C+More+Impact.;Real-time%2C+all+the+time." alt="Typing SVG" />
+</div>
 
 
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="200em"  />
@@ -70,6 +74,19 @@
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
+
+---
+
+## <div align="center"> 📊 This Week I Spent My Time On </div>
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   15 hrs 41 mins  ████████████▓░░░░░░░░░░░░   50.67 %
+React        8 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
+Node.js      4 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
+MongoDB      2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   6.75 %
+CSS          45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   2.46 %
+```
 
 ---
 
