@@ -107,14 +107,17 @@
 	"editor.minimap.size": "fit",
 	"diffEditor.hideUnchangedRegions.enabled": true,
 	"window.menuBarVisibility": "toggle",
-	"window.commandCenter": false,
 	"window.titleSeparator": "\\",
 	"editor.minimap.autohide": true,
 	"workbench.editor.enablePreview": false,
 	"editor.cursorSurroundingLines": 5,
 	"workbench.iconTheme": "material-icon-theme",
 	"typescript.updateImportsOnFileMove.enabled": "always",
-	"editor.stickyScroll.enabled": false
+	"editor.stickyScroll.enabled": false,
+	"workbench.layoutControl.enabled": false,
+	"workbench.navigationControl.enabled": false,
+	"chat.commandCenter.enabled": false,
+	"window.commandCenter": false
 	/* Extensions
 		1. Code Runner
 		2. Live Share
