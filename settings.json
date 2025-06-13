@@ -93,41 +93,61 @@
 	"editor.hideCursorInOverviewRuler": true,
 	"explorer.sortOrder": "type",
 	"editor.scrollbar.horizontal": "hidden",
-	"editor.scrollbar.vertical": "hidden",
+	"editor.scrollbar.vertical": "auto",
 	"workbench.editor.showTabs": "none",
 	"workbench.editor.limit.value": 1,
 	"workbench.editor.limit.enabled": true,
 	"workbench.editor.limit.perEditorGroup": true,
 	"editor.lineNumbers": "on",
 	"editor.suggest.showWords": false,
-	"workbench.colorTheme": "One Dark Pro Night Flat",
 	"editor.accessibilitySupport": "off",
 	"editor.formatOnPaste": true,
-	"editor.minimap.showSlider": "always",
-	"editor.minimap.size": "fit",
 	"diffEditor.hideUnchangedRegions.enabled": true,
 	"window.menuBarVisibility": "toggle",
 	"window.titleSeparator": "\\",
 	"editor.minimap.autohide": true,
 	"workbench.editor.enablePreview": false,
 	"editor.cursorSurroundingLines": 5,
-	"workbench.iconTheme": "material-icon-theme",
 	"typescript.updateImportsOnFileMove.enabled": "always",
 	"editor.stickyScroll.enabled": false,
 	"workbench.layoutControl.enabled": false,
 	"workbench.navigationControl.enabled": false,
 	"chat.commandCenter.enabled": false,
-	"window.commandCenter": false
+	"window.commandCenter": false,
+	"workbench.colorTheme": "One Dark Pro Night Flat",
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.minimap.renderCharacters": false,
+	"editor.minimap.showSlider": "always",
+	"editor.minimap.enabled": false,
+	// Actions Buttons
+	"actionButtons": {
+		"reloadButton": "",
+		"defaultColor": "none",
+		"loadNpmCommands": true,
+		"commands": [
+			{
+				"name": " ▲ React",
+				"command": "npm create vite@latest ./",
+				"tooltip": "Create React App"
+			},
+			{
+				"name": " ▲ Next",
+				"command": "npx create-next-app@latest ./",
+				"tooltip": "Create Next App"
+			},
+		]
+	},
 	/* Extensions
-		1. Code Runner
-		2. Live Share
-		3. Codeium AI
-		4. ES7 React/JSX Snippets
-		5. File Tree Extractor
-		6. JSON Creack
-		7. Tailwind CSS Intellisense
-		8. Fluent Icons
-		9. Material Icon Theme
+		01. Code Runner
+		02. Live Share
+		03. Codeium AI
+		04. ES7 React/JSX Snippets
+		05. File Tree Extractor
+		06. JSON Creack
+		07. Tailwind CSS Intellisense
+		08. Fluent Icons
+		09. Material Icon Theme
 		10. One Dark Pro
+		11. VsCode Action Buttons
 	*/
 }
