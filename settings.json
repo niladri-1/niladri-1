@@ -1,3 +1,15 @@
+/* Extensions:
+		- Code Runner
+		- ES7 React/JSX Snippets
+		- Fluent Icons
+		- JSON Creack
+		- Live Server
+		- Material Icon Theme
+		- One Dark Pro
+		- Tailwind CSS Intellisense
+		- Windsurf Plugin
+		- File Tree Extractor
+	*/
 {
 	"workbench.startupEditor": "none",
 	"workbench.productIconTheme": "fluent-icons",
@@ -21,6 +33,77 @@
 	"editor.rename.enablePreview": false,
 	"editor.smoothScrolling": true,
 	"editor.fontLigatures": true,
+	"editor.tabSize": 4,
+	"editor.guides.indentation": false,
+	"editor.wordWrap": "on",
+	"editor.cursorWidth": 3,
+	"editor.matchBrackets": "never",
+	"editor.autoClosingDelete": "always",
+	"editor.lightbulb.enabled": "off",
+	"editor.guides.bracketPairs": "active",
+	"terminal.integrated.cursorStyle": "line",
+	"terminal.integrated.cursorWidth": 2,
+	"terminal.integrated.smoothScrolling": true,
+	"terminal.integrated.fontFamily": "JetBrains Mono",
+	"terminal.integrated.fontWeight": "normal",
+	"terminal.integrated.fontSize": 14,
+	"files.autoSave": "afterDelay",
+	"files.trimTrailingWhitespace": true,
+	"git.autofetch": true,
+	"git.enableSmartCommit": true,
+	"code-runner.runInTerminal": true,
+	"code-runner.ignoreSelection": true,
+	"C_Cpp.clang_format_fallbackStyle": "{BreakBeforeBraces: Attach}",
+	"html.hover.references": false,
+	"css.hover.references": false,
+	"css.lint.unknownAtRules": "ignore",
+	"css.lint.vendorPrefix": "ignore",
+	"explorer.confirmDragAndDrop": false,
+	"explorer.confirmDelete": false,
+	"window.title": "${activeFolderMedium}${separator}${activeEditorShort}",
+	"breadcrumbs.enabled": false,
+	"material-icon-theme.hidesExplorerArrows": true,
+	"debug.showVariableTypes": true,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"codeium.enableCommandSideHintEducation": false,
+	"diffEditor.ignoreTrimWhitespace": true,
+	"window.newWindowDimensions": "inherit",
+	"editor.snippetSuggestions": "top",
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"workbench.tips.enabled": false,
+	"editor.selectionHighlight": false,
+	"editor.overviewRulerBorder": false,
+	"editor.renderLineHighlight": "none",
+	"editor.occurrencesHighlight": "off",
+	"editor.hideCursorInOverviewRuler": true,
+	"explorer.sortOrder": "type",
+	"editor.scrollbar.horizontal": "hidden",
+	"editor.scrollbar.vertical": "hidden",
+	"workbench.editor.showTabs": "none",
+	"workbench.editor.limit.value": 1,
+	"workbench.editor.limit.enabled": true,
+	"workbench.editor.limit.perEditorGroup": true,
+	"editor.lineNumbers": "on",
+	"editor.suggest.showWords": false,
+	"editor.accessibilitySupport": "off",
+	"editor.formatOnPaste": true,
+	"diffEditor.hideUnchangedRegions.enabled": true,
+	"window.menuBarVisibility": "toggle",
+	"window.titleSeparator": "\\",
+	"editor.minimap.autohide": true,
+	"workbench.editor.enablePreview": false,
+	"editor.cursorSurroundingLines": 5,
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"editor.stickyScroll.enabled": false,
+	"workbench.layoutControl.enabled": false,
+	"workbench.navigationControl.enabled": false,
+	"window.commandCenter": false,
+	"workbench.colorTheme": "One Dark Pro Night Flat",
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.minimap.renderCharacters": false,
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.cursorStyleInactive": "underline",
 	"editor.tokenColorCustomizations": {
 		"textMateRules": [
 			{
@@ -46,108 +129,4 @@
 			}
 		]
 	},
-	"editor.tabSize": 4,
-	"editor.guides.indentation": false,
-	"editor.wordWrap": "on",
-	"editor.cursorWidth": 3,
-	"editor.matchBrackets": "never",
-	"editor.autoClosingDelete": "always",
-	"editor.lightbulb.enabled": "off",
-	"editor.guides.bracketPairs": "active",
-	"terminal.integrated.cursorBlinking": true,
-	"terminal.integrated.cursorStyle": "line",
-	"terminal.integrated.cursorWidth": 2,
-	"terminal.integrated.smoothScrolling": true,
-	"terminal.integrated.fontFamily": "JetBrains Mono",
-	"terminal.integrated.fontWeight": "normal",
-	"terminal.integrated.fontSize": 14,
-	"files.autoSave": "afterDelay",
-	"files.trimTrailingWhitespace": true,
-	"git.autofetch": true,
-	"git.enableSmartCommit": true,
-	"code-runner.runInTerminal": true,
-	"code-runner.ignoreSelection": true,
-	"C_Cpp.clang_format_fallbackStyle": "{BreakBeforeBraces: Attach}",
-	"html.hover.references": false,
-	"css.hover.references": false,
-	"css.lint.unknownAtRules": "ignore",
-	"css.lint.vendorPrefix": "ignore",
-	"explorer.confirmDragAndDrop": false,
-	"explorer.confirmDelete": false,
-	"window.title": "${dirty}${activeFolderMedium}${separator}${activeEditorShort}",
-	"breadcrumbs.enabled": false,
-	"material-icon-theme.hidesExplorerArrows": true,
-	"debug.showVariableTypes": true,
-	"liveServer.settings.donotShowInfoMsg": true,
-	"codeium.enableCommandSideHintEducation": false,
-	"diffEditor.ignoreTrimWhitespace": true,
-	"window.newWindowDimensions": "inherit",
-	"editor.snippetSuggestions": "top",
-	"editor.detectIndentation": false,
-	"editor.insertSpaces": false,
-	"workbench.tips.enabled": false,
-	"editor.selectionHighlight": false,
-	"editor.overviewRulerBorder": false,
-	"editor.renderLineHighlight": "none",
-	"editor.occurrencesHighlight": "off",
-	"editor.hideCursorInOverviewRuler": true,
-	"explorer.sortOrder": "type",
-	"editor.scrollbar.horizontal": "hidden",
-	"editor.scrollbar.vertical": "auto",
-	"workbench.editor.showTabs": "none",
-	"workbench.editor.limit.value": 1,
-	"workbench.editor.limit.enabled": true,
-	"workbench.editor.limit.perEditorGroup": true,
-	"editor.lineNumbers": "on",
-	"editor.suggest.showWords": false,
-	"editor.accessibilitySupport": "off",
-	"editor.formatOnPaste": true,
-	"diffEditor.hideUnchangedRegions.enabled": true,
-	"window.menuBarVisibility": "toggle",
-	"window.titleSeparator": "\\",
-	"editor.minimap.autohide": true,
-	"workbench.editor.enablePreview": false,
-	"editor.cursorSurroundingLines": 5,
-	"typescript.updateImportsOnFileMove.enabled": "always",
-	"editor.stickyScroll.enabled": false,
-	"workbench.layoutControl.enabled": false,
-	"workbench.navigationControl.enabled": false,
-	"chat.commandCenter.enabled": false,
-	"window.commandCenter": false,
-	"workbench.colorTheme": "One Dark Pro Night Flat",
-	"workbench.iconTheme": "material-icon-theme",
-	"editor.minimap.renderCharacters": false,
-	"editor.minimap.showSlider": "always",
-	"editor.minimap.enabled": false,
-	// Actions Buttons
-	"actionButtons": {
-		"reloadButton": "",
-		"defaultColor": "none",
-		"loadNpmCommands": true,
-		"commands": [
-			{
-				"name": " ▲ React",
-				"command": "npm create vite@latest ./",
-				"tooltip": "Create React App"
-			},
-			{
-				"name": " ▲ Next",
-				"command": "npx create-next-app@latest ./",
-				"tooltip": "Create Next App"
-			},
-		]
-	},
-	/* Extensions
-		01. Code Runner
-		02. Live Share
-		03. Codeium AI
-		04. ES7 React/JSX Snippets
-		05. File Tree Extractor
-		06. JSON Creack
-		07. Tailwind CSS Intellisense
-		08. Fluent Icons
-		09. Material Icon Theme
-		10. One Dark Pro
-		11. VsCode Action Buttons
-	*/
 }
