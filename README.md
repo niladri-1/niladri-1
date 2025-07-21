@@ -15,8 +15,8 @@
 - 🤝 Seeking assistance with <b>Full Stack Projects</b>.
 - 🌱 Learning <b>MERN Stack Concepts</b>.
 - 💬 Ask me about <b>Software Development</b>.
-- 📄 View my <b><a target="_blank" href="https://drive.google.com/file/d/1BNtnWhw7RoWeUKu44n-iKRC1ysdY2s8L/view?usp=sharing">Resume</a></b>
-- 📫 Reach me at: <b><a target="_blank" href="mailto:code.niladri@gmail.com">Email</a></b>
+- 📄 View my <b><a target="_blank" href="https://niladri1.vercel.app/files/cv_pdf/Niladri_Chatterjee(CV).pdf">Resume</a></b>
+- 📫 Reach me at: <b><a target="_blank" href="mailto:code.niladri+readme@gmail.com">Email</a></b>
 - 👨‍💻 Check out my: <b><a target="_blank" href="https://niladri1.vercel.app">Portfolio</a></b>
 - <img src="https://komarev.com/ghpvc/?username=niladri-1&style=flat-square&color=000000" alt="Profile views" />
 
