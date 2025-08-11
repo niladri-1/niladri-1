@@ -1,4 +1,4 @@
-<h1 align="center" >
+<h1 align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Niladri Chatterjee</h1>
 
 <h3 align="center">💻 Computer Science student with a passion for coding and technology.</h3>
