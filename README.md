@@ -17,7 +17,7 @@ Experienced Full Stack Developer with 2+ years of hands-on experience specializi
 |:-------------:|:------------:|:---------:|
 | **2+ Years** Full Stack | **B.Tech CSE** - 8.48 CGPA | **35%** Cost Reduction |
 | **4 Internships** Completed | **Bengal College of Eng. & Tech** | **200+** Concurrent Users Served |
-| **Top 5%** HackerRank Rating | **10+ Research Projects** | **60%** Efficiency Improvements |
+| **Top 5%** HackerRank Rating | **5+ Research Projects** | **60%** Efficiency Improvements |
 </div>
 
 
@@ -32,7 +32,7 @@ Experienced Full Stack Developer with 2+ years of hands-on experience specializi
 - 🌱 Learning: <b>Advanced AWS services, microservices architecture</b>.
 - 💬 Ask me about <b>Full Stack Development, Real-time Systems, Performance Optimization</b>.
 - 📫 Reach me at: <b><a target="_blank" href="mailto:code.niladri+readme@gmail.com">code.niladri@gmail.com</a></b>
-- 🌐 Check out my: <b><a target="_blank" href="https://niladri1.vercel.app">niladri1.vercel.app</a></b>
+- 🌐 Portfolio: <b><a target="_blank" href="https://niladri1.vercel.app">niladri1.vercel.app</a></b>
 
 <br>
 
@@ -40,27 +40,31 @@ Experienced Full Stack Developer with 2+ years of hands-on experience specializi
 
 <h2 align="center">Technologies Skills 🛠️</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7B93E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-%231E415E?style=for-the-badge&logo=python&logoColor=%23FFD43B" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-%23C13514.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%233573A6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7B93E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TailwindCSS-%230D9488.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+<img src="https://img.shields.io/badge/Bash_Scripting-%23121061.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting">
   <img src="https://img.shields.io/badge/React-%23149ECA.svg?style=for-the-badge&logo=react&logoColor=black" alt="React.js">
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/HTML5-%23C13514.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%233573A6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/TailwindCSS-%230D9488.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Node.js-%23359341.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-%23232323.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/WebSockets-%23FF7B00.svg?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Cloudinary-%23F2801E.svg?style=for-the-badge&logo=cloudinary&logoColor=black" alt="Cloudinary">
-  <img src="https://img.shields.io/badge/OAuth-%232C8BC6.svg?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth">
-  <img src="https://img.shields.io/badge/Liveblocks-%23000000.svg?style=for-the-badge&logoColor=white" alt="Liveblocks">
   <img src="https://img.shields.io/badge/Git-%23E84E31.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-%23171717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-%23176D65.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/CI%2FCD-%232A5FCD.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD">
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/OAuth-%232C8BC6.svg?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth">
+<img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
 
