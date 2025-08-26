@@ -4,52 +4,41 @@
 <h3 align="center">💻 Computer Science student with a passion for coding and technology.</h3>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer+%7C+MERN+Specialist;Crafting+elegant+solutions+to+complex+problems;Speed%2C+Security+and+Style+Delivered!;Less+Code%2C+More+Impact.;Real-time%2C+all+the+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer+%7C+MERN+Specialist;2%2B+Years+Experience+%7C+Real-time+Apps;Reduced+Server+Costs+by+35%25;Top+5%25+HackerRank+%7C+5-Star+Ratings;Building+Scalable%2C+High-Performance+Solutions" alt="Typing SVG" />
 </div>
 
 
+<h2 align="center">🚀 About Me</h2>
+
+<div align="center">
+Experienced Full Stack Developer with 2+ years of hands-on experience specializing in MERN stack, real-time applications, and cloud technologies with grate understanding.
+
+| 💼 Experience | 🎓 Education | 📈 Impact |
+|:-------------:|:------------:|:---------:|
+| **2+ Years** Full Stack | **B.Tech CSE** - 8.48 CGPA | **35%** Cost Reduction |
+| **4 Internships** Completed | **Bengal College of Eng. & Tech** | **200+** Concurrent Users Served |
+| **Top 5%** HackerRank Rating | **10+ Research Projects** | **60%** Efficiency Improvements |
+</div>
+
+
+---
+
+<h2 align="center"> 💻 Current Focus & Collaboration</h2>
+
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="200em"  />
 
-- 🔭 Currently working on <b>Real Time Projects</b>.
-- 👯 Looking to collaborate on <b>Building 3D website</b>.
-- 🤝 Seeking assistance with <b>Full Stack Projects</b>.
-- 🌱 Learning <b>MERN Stack Concepts</b>.
-- 💬 Ask me about <b>Software Development</b>.
-- 📄 View my <b><a target="_blank" href="https://niladri1.vercel.app/files/cv_pdf/Niladri_Chatterjee(CV).pdf">Resume</a></b>
-- 📫 Reach me at: <b><a target="_blank" href="mailto:code.niladri+readme@gmail.com">Email</a></b>
-- 👨‍💻 Check out my: <b><a target="_blank" href="https://niladri1.vercel.app">Portfolio</a></b>
-- <img src="https://komarev.com/ghpvc/?username=niladri-1&style=flat-square&color=000000" alt="Profile views" />
+- 🔭 Currently working on: <b>Real-time collaborative applications with advanced scaling</b>.
+- 👯 Looking to collaborate on: <b>3D web experiences and interactive platforms</b>.
+- 🌱 Learning: <b>Advanced AWS services, microservices architecture</b>.
+- 💬 Ask me about <b>Full Stack Development, Real-time Systems, Performance Optimization</b>.
+- 📫 Reach me at: <b><a target="_blank" href="mailto:code.niladri+readme@gmail.com">code.niladri@gmail.com</a></b>
+- 🌐 Check out my: <b><a target="_blank" href="https://niladri1.vercel.app">niladri1.vercel.app</a></b>
 
 <br>
 
 ---
 
-<h3 align="center">Connect with me 🤝</h3>
-<p align="center">
-  <a href="tel:+916296554939" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-%2B91%206296554939-2C2C2C?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
-  </a>&nbsp;
-  <a href="mailto:code.niladri@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-code.niladri@gmail.com-B22222?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>&nbsp;
-  <a href="https://wa.me/916296554939" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B91%206296554939-1C8C4A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/niladri1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-niladri1-005B8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;
-  <a href="https://niladri1.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>&nbsp;
-  <a href="https://t.me/niladri_chatterjee" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-niladri_chatterjee-006699?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
-
-
----
-
-<h3 align="center">Technologies Skills 🛠️</h3>
+<h2 align="center">Technologies Skills 🛠️</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-%231E415E?style=for-the-badge&logo=python&logoColor=%23FFD43B" alt="Python">
@@ -77,6 +66,27 @@
 
 ---
 
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:code.niladri+readme@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niladri1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://niladri1.vercel.app/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916296554939)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/niladri_chatterjee)
+
+![Profile Views](https://komarev.com/ghpvc/?username=niladri-1&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+> *"Less Code, More Impact"* - I believe in writing clean, efficient code that solves real problems. When not coding, you'll find me optimizing development workflows and exploring the latest in web technologies!
+
+---
 
 <h3 align="center">Minimalist VS Code Setup ☕</h3>
 <p align="center">Want your VS Code to look minimalist, like this? 🤔</p>
@@ -87,7 +97,7 @@
   </a>
 </p>
 
-<p align="center"><i>🔍 Click the image for a full preview!</i></p>
+<p align="center"><i>📸 Click the image for a full preview!</i></p>
   <br>
   <div align="center">
     <a href="https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf">
@@ -113,4 +123,12 @@
 
 <p align="center">💻 Level up your coding experience now and code in style! 🚀✨ </p>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
+
+---
+
+<div align="center">
+  <b>⭐ Star this repo if you like my work!</b>
+</div>
