@@ -116,9 +116,9 @@ Experienced Full Stack Developer with 2+ years of hands-on experience specializi
 <h3 align="center"> 🚀 Quick Setup in 3 Steps</h3>
 <table align="center">
   <tr>
-    <td>✅ <b>Step 1</b>: Install the sleek <b>JetBrains Mono</b> font.</td>
-    <td>✅ <b>Step 2</b>: Apply the custom <b>VS Code settings.json</b>.</td>
-    <td>✅ <b>Step 3</b>: <b>Restart VS Code</b> & enjoy the stunning UI! 🎉</td>
+    <td>✅ <b>Step 1</b>: Install <b>JetBrains Mono</b> font.</td>
+    <td>✅ <b>Step 2</b>: Copy & paste VS Code <b>settings.json</b>.</td>
+    <td>✅ <b>Step 3</b>: <b>Restart VS Code</b></td>
   </tr>
 </table>
 
