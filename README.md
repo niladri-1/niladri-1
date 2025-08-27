@@ -103,14 +103,13 @@ Experienced Full Stack Developer with 2+ years of hands-on experience specializi
 
 <p align="center"><i>📸 Click the image for a full preview!</i></p>
   <br>
-  <div align="center">
-    <a href="https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf">
-      <img src="https://img.shields.io/badge/font-JetBrains_Mono-000000?style=flat-square&logo=jetbrains&logoColor=white" />
-    </a>
-    <a href="https://github.com/niladri-1/niladri-1/blob/main/settings.json">
-      <img src="https://img.shields.io/badge/settings-JSON-000000?style=flat-square&logo=visual-studio-code&logoColor=white" />
-    </a>
-  </div>
+
+<div align="center">
+
+[![JetBrains Mono Font](https://img.shields.io/badge/Download_Font-JetBrains_Mono-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf)
+[![VS Code Settings](https://img.shields.io/badge/Get_Settings-JSON_Config-007ACC?style=for-the-badge&logo=json&logoColor=white)](https://github.com/niladri-1/niladri-1/blob/main/settings.json)
+
+</div>
 
 ---
 
