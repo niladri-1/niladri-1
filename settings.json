@@ -11,31 +11,6 @@
 		- File Tree Extractor
 	*/
 {
-	"editor.tokenColorCustomizations": {
-		"textMateRules": [
-			{
-				"scope": [
-					"comment",
-					"entity.name.type.class",
-					"keyword",
-					"storage.modifier",
-					"storage.type",
-					"support.class.builtin",
-					"keyword.control",
-					"constant.language",
-					"entity.other.attribute-name",
-					"string.quoted.single",
-					"entity.name.method",
-					"entity.name.tag",
-					"entity.name.function",
-					"variable.other.readwrite"
-				],
-				"settings": {
-					"fontStyle": "italic"
-				}
-			}
-		]
-	},
 	"workbench.startupEditor": "none",
 	"workbench.hover.delay": null,
 	"workbench.editor.openSideBySideDirection": "right",
@@ -136,5 +111,5 @@
 	"liveServer.settings.donotVerifyTags": true,
 	"workbench.productIconTheme": "fluent-icons",
 	"workbench.iconTheme": "material-icon-theme",
-	"terminal.integrated.stickyScroll.enabled": true,
+	"terminal.integrated.stickyScroll.enabled": true
 }
