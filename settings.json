@@ -6,10 +6,9 @@
 		- Live Server
 		- Material Icon Theme
 		- One Dark Pro
+		- Path Intellisense
 		- Tailwind CSS Intellisense
-		- Windsurf Plugin
 		- File Tree Extractor
-		- MongoDB for VS Code
 	*/
 {
 	"editor.tokenColorCustomizations": {
@@ -38,7 +37,7 @@
 		]
 	},
 	"workbench.startupEditor": "none",
-	"workbench.hover.delay": 9999999,
+	"workbench.hover.delay": null,
 	"workbench.editor.openSideBySideDirection": "right",
 	"editor.fontSize": 14.5,
 	"editor.fontFamily": "'JetBrains Mono'",
@@ -60,7 +59,7 @@
 	"editor.rename.enablePreview": false,
 	"editor.smoothScrolling": true,
 	"editor.fontLigatures": true,
-	"editor.tabSize": 2,
+	"editor.tabSize": 4,
 	"editor.guides.indentation": false,
 	"editor.wordWrap": "on",
 	"editor.cursorWidth": 3,
@@ -80,14 +79,13 @@
 	"git.enableSmartCommit": true,
 	"code-runner.runInTerminal": true,
 	"code-runner.ignoreSelection": true,
-	"C_Cpp.clang_format_fallbackStyle": "{BreakBeforeBraces: Attach}",
 	"html.hover.references": false,
 	"css.hover.references": false,
 	"css.lint.unknownAtRules": "ignore",
 	"css.lint.vendorPrefix": "ignore",
 	"explorer.confirmDragAndDrop": false,
 	"explorer.confirmDelete": false,
-	"window.title": "${dirty} ${activeFolderMedium}${separator}${activeEditorShort}",
+	"window.title": "${dirty} ${activeEditorMedium}",
 	"breadcrumbs.enabled": false,
 	"material-icon-theme.hidesExplorerArrows": true,
 	"debug.showVariableTypes": true,
@@ -118,13 +116,12 @@
 	"editor.formatOnPaste": true,
 	"diffEditor.hideUnchangedRegions.enabled": true,
 	"window.menuBarVisibility": "toggle",
-	"window.titleSeparator": "\\",
+	"window.titleSeparator": "",
 	"editor.minimap.autohide": "mouseover",
 	"editor.cursorSurroundingLines": 5,
 	"typescript.updateImportsOnFileMove.enabled": "always",
 	"workbench.navigationControl.enabled": false,
 	"window.commandCenter": false,
-	"workbench.iconTheme": "material-icon-theme",
 	"editor.minimap.renderCharacters": false,
 	"terminal.integrated.cursorBlinking": true,
 	"terminal.integrated.cursorStyleInactive": "underline",
@@ -137,5 +134,7 @@
 	"editor.stickyScroll.enabled": false,
 	"editor.minimap.enabled": false,
 	"liveServer.settings.donotVerifyTags": true,
-	"workbench.productIconTheme": "fluent-icons"
+	"workbench.productIconTheme": "fluent-icons",
+	"workbench.iconTheme": "material-icon-theme",
+	"terminal.integrated.stickyScroll.enabled": true,
 }
