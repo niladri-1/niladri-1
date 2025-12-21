@@ -29,7 +29,25 @@
 
 ---
 
-<h2> 💻 Current Focus & Collaboration</h2>
+
+
+<h2 align="left">💻 Current Focus & Collaboration</h2>
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="350" />
+
+- 🔭 Currently working on: <b>Real-time Applications</b>.
+- 👯 Looking to collaborate on: <b>3D Web Design</b>.
+- 🌱 Learning: <b>Advanced Web3 Stuffs</b>.
+- 💬 Ask me about <b>Software Development</b>.
+- 📫 Reach me at: <b><a href="mailto:code.niladri+readme@gmail.com">code.niladri@gmail.com</a></b>
+- 🌐 Portfolio: <b><a href="https://niladri1.vercel.app">niladri1.vercel.app</a></b>
+
+<br clear="right" />
+
+
+
+
+
+<!-- <h2> 💻 Current Focus & Collaboration</h2>
 
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="350" />
 
@@ -38,8 +56,7 @@
 - 🌱 Learning: <b>Advanced Web3 Stuffs</b>.
 - 💬 Ask me about <b>Software Development</b>.
 - 📫 Reach me at: <b><a target="_blank" href="mailto:code.niladri+readme@gmail.com">code.niladri@gmail.com</a></b>
-- 🌐 Portfolio: <b><a target="_blank" href="https://niladri1.vercel.app">niladri1.vercel.app</a></b>
-
+- 🌐 Portfolio: <b><a target="_blank" href="https://niladri1.vercel.app">niladri1.vercel.app</a></b> -->
 
 ---
 
