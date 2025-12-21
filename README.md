@@ -3,13 +3,14 @@
 </div>
 
 
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Niladri Chatterjee</h1>
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="36" height="36" /> Hi, I'm Niladri Chatterjee</h1>
 
-<h3>💻 Computer Science Engineering </h3>
+<h3>💻 A Computer Science Engineering </h3>
 
 
 
 <div>
+  <img src="https://komarev.com/ghpvc/?username=niladri-1&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 	<a href="mailto:code.niladri+readme@gmail.com">
 		<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 	</a>
@@ -23,8 +24,6 @@
 		<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 	</a>
 
-   <img src="https://komarev.com/ghpvc/?username=niladri-1&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-
 </div>
 
 
@@ -32,7 +31,7 @@
 
 <h2> 💻 Current Focus & Collaboration</h2>
 
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="500em"  />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="350" />
 
 - 🔭 Currently working on: <b>Real-time Applications</b>.
 - 👯 Looking to collaborate on: <b>3D Web Design</b>.
@@ -41,7 +40,6 @@
 - 📫 Reach me at: <b><a target="_blank" href="mailto:code.niladri+readme@gmail.com">code.niladri@gmail.com</a></b>
 - 🌐 Portfolio: <b><a target="_blank" href="https://niladri1.vercel.app">niladri1.vercel.app</a></b>
 
-<br>
 
 ---
 
@@ -75,20 +73,20 @@
 
 ---
 
-<h3>Minimalist VS Code Setup ☕</h3>
-<p>💻 Level up your coding experience now and code in style! 🚀✨ </p>
+<h3 align="center">Minimalist VS Code Setup ☕</h3>
+<p align="center">💻 Level up your coding experience now and code in style! 🚀✨ </p>
 
 
-<p>
+<p align="center">
   <a href="https://raw.githubusercontent.com/niladri-1/niladri-1/refs/heads/main/VS_Code_demo.png" target="_blank">
     <img src="https://raw.githubusercontent.com/niladri-1/niladri-1/refs/heads/main/VS_Code_demo.png" width="500px" alt="VS Code Setup Preview">
   </a>
 </p>
 
-<p><i>📸 Click the image for a full preview!</i></p>
+<p align="center"><i>📸 Click the image for a full preview!</i></p>
   <br>
 
-<div>
+<div align="center">
 
 [![JetBrains Mono Font](https://img.shields.io/badge/Download_Font-JetBrains_Mono-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf)
 [![VS Code Settings](https://img.shields.io/badge/Get_Settings-JSON_Config-007ACC?style=for-the-badge&logo=json&logoColor=white)](https://github.com/niladri-1/niladri-1/blob/main/settings.json)
