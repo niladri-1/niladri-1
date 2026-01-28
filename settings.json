@@ -2,20 +2,35 @@
 		- Code Runner
 		- ES7 React/JSX Snippets
 		- Fluent Icons
-		- JSON Creack
 		- Live Server
 		- Material Icon Theme
+		- Multiple Cursor Case
 		- One Dark Pro
 		- Path Intellisense
 		- Tailwind CSS Intellisense
-		- File Tree Extractor
-	*/
 
+  Shortcuts: Frequently Used:
+		- Ctrl + Alt + ↑ / ↓  → Add multi-cursor vertically
+    - Alt + ↑ / ↓         → Move line or selection up/down
+    - Ctrl + `            → Toggle integrated terminal
+    - Ctrl + D            → Select next matching word
+    - Ctrl + P            → Quick file open (Go to file)
+    - Ctrl + R            → Open recent workspaces
+    - Ctrl + Shift + K    → Delete current line
+    - Alt + Shift + F     → Format document or selection
+    - Ctrl + Shift + [    → Fold code block
+    - Ctrl + Shift + ]    → Unfold code block
+    - Ctrl + W            → Close current editor tab
+    - Ctrl + B     				→ Toggle sidebar (focus mode)
+    - Ctrl + Shift + O 		→ Go to symbol in file
+	*/
+	
 {
 	"workbench.startupEditor": "none",
 	"workbench.hover.delay": null,
 	"workbench.editor.openSideBySideDirection": "right",
 	"workbench.tree.enableStickyScroll": true,
+	"workbench.iconTheme": "material-icon-theme",
 	"workbench.tree.renderIndentGuides": "none",
 	"workbench.list.smoothScrolling": true,
 	"workbench.tree.indent": 15,
@@ -29,6 +44,20 @@
 	"workbench.activityBar.location": "top",
 	"workbench.layoutControl.enabled": false,
 	"workbench.editor.enablePreview": false,
+	"workbench.colorTheme": "One Dark Pro Night Flat",
+	"workbench.productIconTheme": "fluent-icons",
+	"window.title": "${dirty} ${activeEditorMedium}",
+	"window.newWindowDimensions": "inherit",
+	"window.menuBarVisibility": "toggle",
+	"window.commandCenter": false,
+	"explorer.confirmDragAndDrop": false,
+	"explorer.confirmDelete": false,
+	"explorer.sortOrder": "type",
+	"explorer.compactFolders": false,
+	"explorer.confirmPasteNative": false,
+	"editor.folding": false,
+	"editor.showFoldingControls": "never",
+	"editor.foldingHighlight": false,
 	"editor.fontSize": 14.5,
 	"editor.fontFamily": "'JetBrains Mono'",
 	"editor.lineHeight": 25,
@@ -78,6 +107,13 @@
 	"editor.minimap.size": "fit",
 	"editor.stickyScroll.enabled": false,
 	"editor.suggest.showInlineDetails": false,
+	"diffEditor.ignoreTrimWhitespace": true,
+	"diffEditor.hideUnchangedRegions.enabled": true,
+	"breadcrumbs.enabled": false,
+	"files.autoSave": "afterDelay",
+	"files.autoSaveDelay": 1000,
+	"files.trimTrailingWhitespace": true,
+	"files.trimFinalNewlines": true,
 	"terminal.integrated.cursorStyle": "line",
 	"terminal.integrated.smoothScrolling": true,
 	"terminal.integrated.fontFamily": "JetBrains Mono",
@@ -86,35 +122,21 @@
 	"terminal.integrated.cursorBlinking": true,
 	"terminal.integrated.cursorStyleInactive": "underline",
 	"terminal.integrated.stickyScroll.enabled": false,
-	"files.autoSave": "afterDelay",
-	"files.autoSaveDelay": 1000,
-	"files.trimTrailingWhitespace": true,
-	"files.trimFinalNewlines": true,
+	"terminal.integrated.initialHint": false,
+	"code-runner.runInTerminal": true,
+	"code-runner.ignoreSelection": true,
+	"material-icon-theme.hidesExplorerArrows": true,
+	"liveServer.settings.donotVerifyTags": true,
+	"liveServer.settings.donotShowInfoMsg": true,
 	"git.autofetch": true,
 	"git.openRepositoryInParentFolders": "always",
-	"diffEditor.ignoreTrimWhitespace": true,
-	"diffEditor.hideUnchangedRegions.enabled": true,
-	"explorer.confirmDragAndDrop": false,
-	"explorer.confirmDelete": false,
-	"explorer.sortOrder": "type",
-	"explorer.compactFolders": false,
-	"explorer.confirmPasteNative": false,
-	"window.title": "${dirty} ${activeEditorMedium}",
-	"window.newWindowDimensions": "inherit",
-	"window.menuBarVisibility": "toggle",
-	"window.commandCenter": false,
-	"breadcrumbs.enabled": false,
-	"workbench.colorTheme": "One Dark Pro Night Flat",
-	"workbench.iconTheme": "material-icon-theme",
-	"workbench.productIconTheme": "fluent-icons",
-	"material-icon-theme.hidesExplorerArrows": true,
 	"css.lint.unknownAtRules": "ignore",
 	"css.lint.vendorPrefix": "ignore",
 	"emmet.showSuggestionsAsSnippets": true,
-	"typescript.updateImportsOnFileMove.enabled": "always",
 	"javascript.updateImportsOnFileMove.enabled": "always",
-	"code-runner.runInTerminal": true,
-	"code-runner.ignoreSelection": true,
-	"liveServer.settings.donotVerifyTags": true,
-	"chat.commandCenter.enabled": false
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"chat.commandCenter.enabled": false,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	}
 }
