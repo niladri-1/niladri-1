@@ -24,8 +24,6 @@
 <div>
 
   <h2>Lets Connect</h2>
-
-  <img src="https://komarev.com/ghpvc/?username=niladri-1&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 	<a href="mailto:code.niladri+readme@gmail.com">
 		<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 	</a>
@@ -38,6 +36,7 @@
 	<a href="https://wa.me/916296554939">
 		<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 	</a>
+  <img src="https://komarev.com/ghpvc/?username=niladri-1&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
 </div>
 
@@ -45,21 +44,9 @@
 
 <div>
 <h2>Technologies Skills 🛠️</h2>
-	<img src="https://img.shields.io/badge/HTML5-%23C13514.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-	<img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-	<img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-	<img src="https://img.shields.io/badge/Typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-	<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js">
-	<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-	<img src="https://img.shields.io/badge/Git-%23E84E31.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-	<img src="https://img.shields.io/badge/GitHub-%23171717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-	<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-	<img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-	<img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-	<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,redux,nodejs,express,npm,mongodb,postman,vite,vscode,obsidian,git,github,bash,powershell,linux,windows,vercel&theme=dark&perline=8" />
+  </a>
 </div>
 
 ---
