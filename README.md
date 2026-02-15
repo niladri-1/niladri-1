@@ -53,6 +53,8 @@
 [![](https://custom-icon-badges.herokuapp.com/badge/download_Font-000000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf)
 [![](https://custom-icon-badges.herokuapp.com/badge/Vs_Code_json_file-000000?style=for-the-badge&logo=file-code&logoColor=white)](https://github.com/niladri-1/niladri-1/blob/main/settings.json)
 
+[![](https://custom-icon-badges.herokuapp.com/badge/Optimize_Windows_OS-000000?style=for-the-badge&logo=file-code&logoColor=white)](./README.md)
+
 </div>
 
 ---
