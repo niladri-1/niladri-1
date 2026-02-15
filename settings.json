@@ -1,34 +1,8 @@
-/* Extensions:
-		- Code Runner
-		- ES7 React/JSX Snippets
-		- Fluent Icons
-		- Live Server
-		- Material Icon Theme
-		- Multiple Cursor Case
-		- One Dark Pro
-		- Path Intellisense
-		- Tailwind CSS Intellisense
-
-  Shortcuts: Frequently Used:
-		- Ctrl + Alt + ↑ / ↓  → Add multi-cursor vertically
-    - Alt + ↑ / ↓         → Move line or selection up/down
-    - Ctrl + `            → Toggle integrated terminal
-    - Ctrl + D            → Select next matching word
-    - Ctrl + P            → Quick file open (Go to file)
-    - Ctrl + R            → Open recent workspaces
-    - Ctrl + Shift + K    → Delete current line
-    - Alt + Shift + F     → Format document or selection
-    - Ctrl + Shift + [    → Fold code block
-    - Ctrl + Shift + ]    → Unfold code block
-    - Ctrl + W            → Close current editor tab
-    - Ctrl + B     				→ Toggle sidebar (focus mode)
-    - Ctrl + Shift + O 		→ Go to symbol in file
-	*/
-	
 {
 	"workbench.startupEditor": "none",
 	"workbench.hover.delay": null,
 	"workbench.editor.openSideBySideDirection": "right",
+	"workbench.sideBar.location": "left",
 	"workbench.tree.enableStickyScroll": true,
 	"workbench.iconTheme": "material-icon-theme",
 	"workbench.tree.renderIndentGuides": "none",
@@ -55,8 +29,7 @@
 	"explorer.sortOrder": "type",
 	"explorer.compactFolders": false,
 	"explorer.confirmPasteNative": false,
-	"editor.folding": false,
-	"editor.showFoldingControls": "never",
+	"editor.showFoldingControls": "mouseover",
 	"editor.foldingHighlight": false,
 	"editor.fontSize": 14.5,
 	"editor.fontFamily": "'JetBrains Mono'",
@@ -73,8 +46,8 @@
 	"editor.copyWithSyntaxHighlighting": false,
 	"editor.parameterHints.enabled": false,
 	"editor.suggest.insertMode": "replace",
-	"editor.hover.enabled": "off",
-	"editor.hover.delay": 2000,
+	"editor.hover.enabled": "on",
+	"editor.hover.delay": 1500,
 	"editor.rename.enablePreview": false,
 	"editor.smoothScrolling": true,
 	"editor.tabSize": 2,
@@ -135,8 +108,50 @@
 	"emmet.showSuggestionsAsSnippets": true,
 	"javascript.updateImportsOnFileMove.enabled": "always",
 	"typescript.updateImportsOnFileMove.enabled": "always",
-	"chat.commandCenter.enabled": false,
 	"emmet.includeLanguages": {
-		"javascript": "javascriptreact"
-	}
+		"javascript": "javascriptreact",
+		"typescript": "typescriptreact"
+	},
 }
+/* VS Code Extensions:
+		- Class Collapse
+		- Code Runner
+		- ES7 React/Redux/GraphQL/ReactNative
+		- File Tree Extractor
+		- Fluent Icons
+		- Live Server
+		- Material Icon Theme
+		- Multiple Cursor Case
+		- One Dark Pro
+		- Path Intellisense
+		- Tailwind CSS Intellisense
+
+  Developer Apps:
+	→ Visual Studio Code
+		→ Chrome Browser
+		→ Node.js (v@18, v@Latest)
+		→ NVM (nvm list, use vName, install vName, uninstall vName)
+		→ Postman
+		→ Compass
+		→ Git
+		→ Git Desktop
+		→ Oracle VirtualBox
+		→ Obsidian
+		→ LocalSend
+		→ Rambox
+
+  Shortcuts: Frequently Used:
+		- Ctrl + Alt + ↑ / ↓  → Add multi-cursor vertically
+    - Alt + ↑ / ↓         → Move line or selection up/down
+    - Ctrl + `            → Toggle integrated terminal
+    - Ctrl + D            → Select next matching word
+    - Ctrl + P            → Quick file open (Go to file)
+    - Ctrl + R            → Open recent workspaces
+    - Ctrl + Shift + K    → Delete current line
+    - Alt + Shift + F     → Format document or selection
+    - Ctrl + Shift + [    → Fold code block
+    - Ctrl + Shift + ]    → Unfold code block
+    - Ctrl + W            → Close current editor tab
+    - Ctrl + B     				→ Toggle sidebar (focus mode)
+    - Ctrl + Shift + O 		→ Go to symbol in file
+	*/
