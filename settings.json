@@ -1,157 +1,288 @@
-{
-	"workbench.startupEditor": "none",
-	"workbench.hover.delay": null,
-	"workbench.editor.openSideBySideDirection": "right",
-	"workbench.sideBar.location": "left",
-	"workbench.tree.enableStickyScroll": true,
-	"workbench.iconTheme": "material-icon-theme",
-	"workbench.tree.renderIndentGuides": "none",
-	"workbench.list.smoothScrolling": true,
-	"workbench.tree.indent": 15,
-	"workbench.editor.showTabs": "none",
-	"workbench.editor.limit.value": 1,
-	"workbench.editor.limit.enabled": true,
-	"workbench.editor.limit.perEditorGroup": true,
-	"workbench.tips.enabled": false,
-	"workbench.navigationControl.enabled": false,
-	"workbench.secondarySideBar.defaultVisibility": "hidden",
-	"workbench.activityBar.location": "top",
-	"workbench.layoutControl.enabled": false,
-	"workbench.editor.enablePreview": false,
-	"workbench.colorTheme": "One Dark Pro Night Flat",
-	"workbench.productIconTheme": "fluent-icons",
-	"window.title": "${dirty} ${activeEditorMedium}",
-	"window.newWindowDimensions": "inherit",
-	"window.menuBarVisibility": "toggle",
-	"window.commandCenter": false,
-	"explorer.confirmDragAndDrop": false,
-	"explorer.confirmDelete": false,
-	"explorer.sortOrder": "type",
-	"explorer.compactFolders": false,
-	"explorer.confirmPasteNative": false,
-	"editor.showFoldingControls": "mouseover",
-	"editor.foldingHighlight": false,
-	"editor.fontSize": 14.5,
-	"editor.fontFamily": "'JetBrains Mono'",
-	"editor.lineHeight": 25,
-	"editor.fontLigatures": true,
-	"editor.cursorWidth": 3,
-	"editor.cursorBlinking": "phase",
-	"editor.cursorSmoothCaretAnimation": "on",
-	"editor.cursorSurroundingLines": 5,
-	"editor.mouseWheelZoom": true,
-	"editor.renderWhitespace": "none",
-	"editor.linkedEditing": true,
-	"editor.codeLens": false,
-	"editor.copyWithSyntaxHighlighting": false,
-	"editor.parameterHints.enabled": false,
-	"editor.suggest.insertMode": "replace",
-	"editor.hover.enabled": "on",
-	"editor.hover.delay": 1500,
-	"editor.rename.enablePreview": false,
-	"editor.smoothScrolling": true,
-	"editor.tabSize": 2,
-	"editor.guides.indentation": false,
-	"editor.wordWrap": "on",
-	"editor.matchBrackets": "never",
-	"editor.autoClosingDelete": "always",
-	"editor.lightbulb.enabled": "off",
-	"editor.guides.bracketPairs": "active",
-	"editor.detectIndentation": false,
-	"editor.insertSpaces": false,
-	"editor.selectionHighlight": false,
-	"editor.overviewRulerBorder": false,
-	"editor.renderLineHighlight": "none",
-	"editor.occurrencesHighlight": "off",
-	"editor.hideCursorInOverviewRuler": true,
-	"editor.glyphMargin": false,
-	"editor.lineNumbers": "on",
-	"editor.suggest.showWords": false,
-	"editor.accessibilitySupport": "off",
-	"editor.formatOnPaste": true,
-	"editor.suggest.localityBonus": true,
-	"editor.snippetSuggestions": "top",
-	"editor.scrollbar.horizontal": "hidden",
-	"editor.scrollbar.vertical": "auto",
-	"editor.scrollbar.verticalScrollbarSize": 10,
-	"editor.minimap.enabled": false,
-	"editor.minimap.autohide": "mouseover",
-	"editor.minimap.renderCharacters": false,
-	"editor.minimap.size": "fit",
-	"editor.stickyScroll.enabled": false,
-	"editor.suggest.showInlineDetails": false,
-	"diffEditor.ignoreTrimWhitespace": true,
-	"diffEditor.hideUnchangedRegions.enabled": true,
-	"breadcrumbs.enabled": false,
-	"files.autoSave": "afterDelay",
-	"files.autoSaveDelay": 1000,
-	"files.trimTrailingWhitespace": true,
-	"files.trimFinalNewlines": true,
-	"terminal.integrated.cursorStyle": "line",
-	"terminal.integrated.smoothScrolling": true,
-	"terminal.integrated.fontFamily": "JetBrains Mono",
-	"terminal.integrated.fontWeight": "normal",
-	"terminal.integrated.fontSize": 14,
-	"terminal.integrated.cursorBlinking": true,
-	"terminal.integrated.cursorStyleInactive": "underline",
-	"terminal.integrated.stickyScroll.enabled": false,
-	"terminal.integrated.initialHint": false,
-	"code-runner.runInTerminal": true,
-	"code-runner.ignoreSelection": true,
-	"material-icon-theme.hidesExplorerArrows": true,
-	"liveServer.settings.donotVerifyTags": true,
-	"liveServer.settings.donotShowInfoMsg": true,
-	"git.autofetch": true,
-	"git.openRepositoryInParentFolders": "always",
-	"css.lint.unknownAtRules": "ignore",
-	"css.lint.vendorPrefix": "ignore",
-	"emmet.showSuggestionsAsSnippets": true,
-	"javascript.updateImportsOnFileMove.enabled": "always",
-	"typescript.updateImportsOnFileMove.enabled": "always",
-	"emmet.includeLanguages": {
-		"javascript": "javascriptreact",
-		"typescript": "typescriptreact"
-	},
-}
 /* VS Code Extensions:
-		- Class Collapse
-		- Code Runner
-		- ES7 React/Redux/GraphQL/ReactNative
-		- File Tree Extractor
-		- Fluent Icons
-		- Live Server
-		- Material Icon Theme
-		- Multiple Cursor Case
-		- One Dark Pro
-		- Path Intellisense
-		- Tailwind CSS Intellisense
+		→ Class Collapse
+		→ Code Runner
+		→ ES7 React/Redux/GraphQL/ReactNative
+		→ File Tree Extractor
+		→ Fluent Icons
+		→ Inline Fold by "ctf0"
+		→ Live Server
+		→ Material Icon Theme
+		→ Multiple Cursor Case
+		→ One Dark Pro
+		→ Path Intellisense
+		→ Tailwind CSS Intellisense
 
   Developer Apps:
-	→ Visual Studio Code
-		→ Chrome Browser
+	  → Visual Studio Code
+	  → Cascadia Code or JetBrains Mono
+		→ Chrome, Firefox Browser
 		→ Node.js (v@18, v@Latest)
 		→ NVM (nvm list, use vName, install vName, uninstall vName)
 		→ Postman
-		→ Compass
-		→ Git
-		→ Git Desktop
+		→ MongoDB Compass
+		→ Git & Git Desktop
 		→ Oracle VirtualBox
+		→ Rambox
 		→ Obsidian
 		→ LocalSend
-		→ Rambox
 
-  Shortcuts: Frequently Used:
-		- Ctrl + Alt + ↑ / ↓  → Add multi-cursor vertically
-    - Alt + ↑ / ↓         → Move line or selection up/down
-    - Ctrl + `            → Toggle integrated terminal
-    - Ctrl + D            → Select next matching word
-    - Ctrl + P            → Quick file open (Go to file)
-    - Ctrl + R            → Open recent workspaces
-    - Ctrl + Shift + K    → Delete current line
-    - Alt + Shift + F     → Format document or selection
-    - Ctrl + Shift + [    → Fold code block
-    - Ctrl + Shift + ]    → Unfold code block
-    - Ctrl + W            → Close current editor tab
-    - Ctrl + B     				→ Toggle sidebar (focus mode)
-    - Ctrl + Shift + O 		→ Go to symbol in file
+  Shortcuts: Frequently Used
+		→ Ctrl + Alt + ↑ / ↓  → Add multi-cursor vertically
+    → Alt + ↑ / ↓         → Move line or selection up/down
+    → Ctrl + `            → Toggle integrated terminal
+    → Ctrl + D            → Select next matching word
+    → Ctrl + P            → Quick file open (Go to file)
+    → Ctrl + R            → Open recent workspaces
+    → Ctrl + Shift + K    → Delete current line
+    → Alt + Shift + F     → Format document or selection
+    → Ctrl + Shift + [    → Fold code block
+    → Ctrl + Shift + ]    → Unfold code block
+    → Ctrl + W            → Close current editor tab
+    → Ctrl + B     				→ Toggle sidebar (focus mode)
+    → Ctrl + Shift + O 		→ Go to symbol in file
 	*/
+
+{
+  "workbench.startupEditor": "none",
+  "workbench.hover.delay": null,
+  "workbench.editor.openSideBySideDirection": "right",
+  "workbench.sideBar.location": "left",
+  "workbench.tree.enableStickyScroll": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.tree.renderIndentGuides": "none",
+  "workbench.list.smoothScrolling": true,
+  "workbench.tree.indent": 15,
+  "workbench.editor.showTabs": "none",
+  "workbench.editor.limit.value": 1,
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.perEditorGroup": true,
+  "workbench.layoutControl.enabled": false,
+  "workbench.tips.enabled": false,
+  "workbench.navigationControl.enabled": false,
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "workbench.activityBar.location": "top",
+  "workbench.editor.enablePreview": false,
+  "workbench.colorTheme": "One Dark Pro Night Flat",
+  "workbench.productIconTheme": "fluent-icons",
+  "window.menuBarVisibility": "toggle",
+  "window.title": "${dirty} ${activeEditorMedium}",
+  "window.newWindowDimensions": "inherit",
+  "window.commandCenter": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.sortOrder": "type",
+  "explorer.compactFolders": false,
+  "explorer.confirmPasteNative": false,
+  "editor.showFoldingControls": "never",
+  "editor.foldingHighlight": false,
+  "editor.fontSize": 14.5,
+  "editor.fontFamily": "'Cascadia Code', monospace",
+  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+  "editor.lineHeight": 25,
+  "editor.cursorWidth": 3,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorSurroundingLines": 5,
+  "editor.mouseWheelZoom": true,
+  "editor.renderWhitespace": "none",
+  "editor.linkedEditing": true,
+  "editor.codeLens": false,
+  "editor.copyWithSyntaxHighlighting": false,
+  "editor.parameterHints.enabled": false,
+  "editor.suggest.insertMode": "replace",
+  "editor.hover.enabled": "off",
+  "editor.hover.delay": 1500,
+  "editor.rename.enablePreview": false,
+  "editor.smoothScrolling": true,
+  "editor.tabSize": 2,
+  "editor.guides.indentation": false,
+  "editor.wordWrap": "on",
+  "editor.matchBrackets": "never",
+  "editor.autoClosingDelete": "always",
+  "editor.lightbulb.enabled": "off",
+  "editor.guides.bracketPairs": "active",
+  "editor.detectIndentation": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.insertSpaces": false,
+  "editor.selectionHighlight": false,
+  "editor.overviewRulerBorder": false,
+  "editor.renderLineHighlight": "none",
+  "editor.occurrencesHighlight": "off",
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.glyphMargin": false,
+  "editor.lineNumbers": "on",
+  "editor.formatOnSave": true,
+  "editor.suggest.showWords": false,
+  "editor.snippetSuggestions": "top",
+  "editor.suggest.showInlineDetails": false,
+  "editor.suggest.localityBonus": true,
+  "editor.accessibilitySupport": "off",
+  "editor.formatOnPaste": true,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "auto",
+  "editor.scrollbar.verticalScrollbarSize": 10,
+  "editor.minimap.enabled": false,
+  "editor.minimap.autohide": "mouseover",
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.size": "fit",
+  "editor.stickyScroll.enabled": false,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "breadcrumbs.enabled": false,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.smoothScrolling": true,
+  "terminal.integrated.fontFamily": "'Cascadia Code'",
+  "terminal.integrated.fontWeight": "normal",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyleInactive": "underline",
+  "terminal.integrated.stickyScroll.enabled": false,
+  "terminal.integrated.initialHint": false,
+  "terminal.integrated.showLinkHover": false,
+  "terminal.integrated.tabs.focusMode": "singleClick",
+  "code-runner.runInTerminal": true,
+  "code-runner.ignoreSelection": true,
+  "material-icon-theme.hidesExplorerArrows": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "chat.disableAIFeatures": true,
+  "git.autofetch": true,
+  "git.openRepositoryInParentFolders": "always",
+  "css.lint.unknownAtRules": "ignore",
+  "css.lint.vendorPrefix": "ignore",
+  "emmet.showSuggestionsAsSnippets": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "name": "Keywords italic",
+        "scope": [
+          "keyword.control",
+          "keyword.control.import",
+          "keyword.control.from",
+          "keyword.control.export",
+          "keyword.control.default",
+          "keyword.control.flow",
+          "keyword.operator.new",
+          "keyword.other",
+          "storage.type",
+          "storage.modifier",
+          "variable.language.this",
+          "variable.language.super"
+        ],
+        "settings": { "fontStyle": "italic" }
+      },
+      {
+        "name": "Function keywords",
+        "scope": [
+          "storage.type.function",
+          "storage.type.class",
+          "storage.type.arrow"
+        ],
+        "settings": { "fontStyle": "italic" }
+      },
+      {
+        "name": "React/JSX specific",
+        "scope": [
+          "keyword.operator.expression.typeof",
+          "keyword.operator.expression.instanceof",
+          "constant.language.boolean",
+          "constant.language.null",
+          "constant.language.undefined"
+        ],
+        "settings": { "fontStyle": "italic" }
+      },
+      {
+        "name": "Node.js specific",
+        "scope": ["support.module.node", "support.type.object.module"],
+        "settings": { "fontStyle": "italic" }
+      },
+      {
+        "name": "TypeScript types and interfaces",
+        "scope": [
+          "storage.type.type.ts",
+          "storage.type.interface.ts",
+          "storage.type.enum.ts",
+          "keyword.operator.type.ts",
+          "support.type.primitive.ts"
+        ],
+        "settings": { "fontStyle": "italic" }
+      },
+      {
+        "name": "Parameters and arguments",
+        "scope": ["variable.parameter", "variable.parameter.function"],
+        "settings": { "fontStyle": "italic" }
+      },
+      {
+        "name": "Object properties and keys",
+        "scope": [
+          "variable.other.property",
+          "variable.other.object.property",
+          "support.variable.property"
+        ],
+        "settings": { "fontStyle": "italic" }
+      },
+      {
+        "name": "Class and object members",
+        "scope": [
+          "variable.other.readwrite.member",
+          "variable.other.object",
+          "entity.name.type.class"
+        ],
+        "settings": { "fontStyle": "italic" }
+      },
+      {
+        "name": "JSX component tags",
+        "scope": [
+          "support.class.component.jsx",
+          "entity.name.tag.jsx",
+          "entity.name.tag.tsx"
+        ],
+        "settings": { "fontStyle": "italic" }
+      },
+      {
+        "name": "JSX attributes/props",
+        "scope": [
+          "entity.other.attribute-name.jsx",
+          "entity.other.attribute-name.tsx",
+          "entity.other.attribute-name"
+        ],
+        "settings": { "fontStyle": "italic" }
+      },
+      {
+        "name": "Comments",
+        "scope": [
+          "comment",
+          "comment.line",
+          "comment.block",
+          "comment.block.documentation"
+        ],
+        "settings": { "fontStyle": "italic" }
+      },
+      {
+        "name": "Decorators (React/TS)",
+        "scope": ["meta.decorator", "punctuation.decorator"],
+        "settings": { "fontStyle": "italic" }
+      },
+      {
+        "name": "CSS/Styled-components in JSX",
+        "scope": ["keyword.control.at-rule", "support.type.property-name.css"],
+        "settings": { "fontStyle": "italic" }
+      },
+      {
+        "name": "Template literals tag",
+        "scope": ["entity.name.function.tagged-template"],
+        "settings": { "fontStyle": "italic" }
+      }
+    ]
+  }
+}
