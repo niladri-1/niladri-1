@@ -76,8 +76,8 @@
   "editor.showFoldingControls": "never",
   "editor.foldingHighlight": false,
   "editor.fontSize": 14.5,
-  "editor.fontFamily": "'Cascadia Code', monospace",
-  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+  "editor.fontFamily": "'JetBrains Mono', monospace",
+  "editor.fontLigatures": true,
   "editor.lineHeight": 25,
   "editor.cursorWidth": 3,
   "editor.cursorBlinking": "phase",
@@ -135,7 +135,7 @@
   "files.trimFinalNewlines": true,
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.smoothScrolling": true,
-  "terminal.integrated.fontFamily": "'Cascadia Code'",
+  "terminal.integrated.fontFamily": "'JetBrains Mono'",
   "terminal.integrated.fontWeight": "normal",
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.cursorBlinking": true,
@@ -160,129 +160,5 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "typescript": "typescriptreact"
-  },
-  "editor.tokenColorCustomizations": {
-    "textMateRules": [
-      {
-        "name": "Keywords italic",
-        "scope": [
-          "keyword.control",
-          "keyword.control.import",
-          "keyword.control.from",
-          "keyword.control.export",
-          "keyword.control.default",
-          "keyword.control.flow",
-          "keyword.operator.new",
-          "keyword.other",
-          "storage.type",
-          "storage.modifier",
-          "variable.language.this",
-          "variable.language.super"
-        ],
-        "settings": { "fontStyle": "italic" }
-      },
-      {
-        "name": "Function keywords",
-        "scope": [
-          "storage.type.function",
-          "storage.type.class",
-          "storage.type.arrow"
-        ],
-        "settings": { "fontStyle": "italic" }
-      },
-      {
-        "name": "React/JSX specific",
-        "scope": [
-          "keyword.operator.expression.typeof",
-          "keyword.operator.expression.instanceof",
-          "constant.language.boolean",
-          "constant.language.null",
-          "constant.language.undefined"
-        ],
-        "settings": { "fontStyle": "italic" }
-      },
-      {
-        "name": "Node.js specific",
-        "scope": ["support.module.node", "support.type.object.module"],
-        "settings": { "fontStyle": "italic" }
-      },
-      {
-        "name": "TypeScript types and interfaces",
-        "scope": [
-          "storage.type.type.ts",
-          "storage.type.interface.ts",
-          "storage.type.enum.ts",
-          "keyword.operator.type.ts",
-          "support.type.primitive.ts"
-        ],
-        "settings": { "fontStyle": "italic" }
-      },
-      {
-        "name": "Parameters and arguments",
-        "scope": ["variable.parameter", "variable.parameter.function"],
-        "settings": { "fontStyle": "italic" }
-      },
-      {
-        "name": "Object properties and keys",
-        "scope": [
-          "variable.other.property",
-          "variable.other.object.property",
-          "support.variable.property"
-        ],
-        "settings": { "fontStyle": "italic" }
-      },
-      {
-        "name": "Class and object members",
-        "scope": [
-          "variable.other.readwrite.member",
-          "variable.other.object",
-          "entity.name.type.class"
-        ],
-        "settings": { "fontStyle": "italic" }
-      },
-      {
-        "name": "JSX component tags",
-        "scope": [
-          "support.class.component.jsx",
-          "entity.name.tag.jsx",
-          "entity.name.tag.tsx"
-        ],
-        "settings": { "fontStyle": "italic" }
-      },
-      {
-        "name": "JSX attributes/props",
-        "scope": [
-          "entity.other.attribute-name.jsx",
-          "entity.other.attribute-name.tsx",
-          "entity.other.attribute-name"
-        ],
-        "settings": { "fontStyle": "italic" }
-      },
-      {
-        "name": "Comments",
-        "scope": [
-          "comment",
-          "comment.line",
-          "comment.block",
-          "comment.block.documentation"
-        ],
-        "settings": { "fontStyle": "italic" }
-      },
-      {
-        "name": "Decorators (React/TS)",
-        "scope": ["meta.decorator", "punctuation.decorator"],
-        "settings": { "fontStyle": "italic" }
-      },
-      {
-        "name": "CSS/Styled-components in JSX",
-        "scope": ["keyword.control.at-rule", "support.type.property-name.css"],
-        "settings": { "fontStyle": "italic" }
-      },
-      {
-        "name": "Template literals tag",
-        "scope": ["entity.name.function.tagged-template"],
-        "settings": { "fontStyle": "italic" }
-      }
-    ]
   }
 }
