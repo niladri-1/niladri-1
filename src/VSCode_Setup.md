@@ -4,7 +4,7 @@
 
 *Install the extensions → paste the settings → done. Your editor will look exactly like this 👇*
 
-<img src="https://raw.githubusercontent.com/niladri-1/niladri-1/refs/heads/main/VS_Code_demo.png" width="500px" alt="VS Code Setup Preview">
+<img src="./public/VS_Code_demo.png" width="500px" alt="VS Code Setup Preview">
 
 </div>
 
@@ -26,7 +26,7 @@
 
 | | | | |
 |---|---|---|---|
-| 🔴 **[VS Code](https://code.visualstudio.com)** | 🔴 **[JetBrains Mono](https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf)** | 🔴 **[Cascadia Code](https://github.com/microsoft/cascadia-code/releases)** | 🔴 **Node.js `v18+`** |
+| 🔴 **VS Code** | 🔴 **[JetBrains Mono](./font/JetBrainsMono-Regular.ttf)** | 🔴 **[Cascadia Code](./font/CascadiaCode-Regular.ttf)** | 🔴 **[Cascadia Code (Italic)](./font/CascadiaCode-Italic.ttf)** | 🔴 **Node.js `v18+`** |
 | 🔴 **Git + GitHub Desktop** | 🔴 **Chrome + Firefox** | 🔴 **Postman** | 🔴 **MongoDB Compass** |
 | 🟡 **NVM** | 🟡 **VirtualBox** | 🟡 **Rambox** | 🟡 **Obsidian** |
 | 🟡 **LocalSend** | | | |
@@ -34,7 +34,7 @@
 ```bash
 nvm list            # See installed Node versions
 nvm use v18         # Switch to v18
-nvm install v20     # Install v20
+nvm install v24     # Install v24
 nvm uninstall v18   # Remove v18
 ```
 
@@ -79,8 +79,9 @@ nvm uninstall v18   # Remove v18
 
 **1 — Download & install both fonts** *(right-click the `.ttf` file → Install)*
 
-[![](https://custom-icon-badges.herokuapp.com/badge/Download_JetBrains_Mono-000000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf)
-&nbsp; Cascadia Code → [github.com/microsoft/cascadia-code/releases](https://github.com/microsoft/cascadia-code/releases) *(install Regular + Italic)*
+[![](https://custom-icon-badges.herokuapp.com/badge/JetBrains_Mono-000000?style=for-the-badge&logo=download&logoColor=white)](./font/JetBrainsMono-Regular.ttf)
+[![](https://custom-icon-badges.herokuapp.com/badge/Cascadia_Code-000000?style=for-the-badge&logo=download&logoColor=white)](./font/CascadiaCode-Regular.ttf)
+[![](https://custom-icon-badges.herokuapp.com/badge/Cascadia_Code_(Italic)-000000?style=for-the-badge&logo=download&logoColor=white)](./font/CascadiaCode-Italic.ttf)
 
 **2 — In `settings.json`, find and replace these 2 lines:**
 
@@ -249,5 +250,7 @@ nvm uninstall v18   # Remove v18
 
 **🎉 You're all set up and coding in style!**
 *Found this helpful? Drop a ⭐ star on the repo!*
+
+[![](https://custom-icon-badges.herokuapp.com/badge/Optimize_Windows_OS-000000?style=for-the-badge&logo=file-code&logoColor=white)](../src/Windows%20Optimize.md)
 
 </div>

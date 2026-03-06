@@ -43,8 +43,8 @@
 <p align="center">A clean, minimal setup to make your editor look & feel like a pro's 💻</p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/niladri-1/niladri-1/refs/heads/main/VS_Code_demo.png" target="_blank">
-    <img src="https://raw.githubusercontent.com/niladri-1/niladri-1/refs/heads/main/VS_Code_demo.png" width="500px" alt="VS Code Setup Preview">
+  <a href="./src/public/VS_Code_demo.png" target="_blank">
+    <img src="./src/public/VS_Code_demo.png" width="500px" alt="Setup Preview">
   </a>
 </p>
 
@@ -56,8 +56,8 @@
 
 <div align="center">
 
-[![](https://custom-icon-badges.herokuapp.com/badge/VS_Code_Setup_README-000000?style=for-the-badge&logo=file-code&logoColor=white)](https://github.com/niladri-1/niladri-1/blob/main/VSCode_Setup.md)
-[![](https://custom-icon-badges.herokuapp.com/badge/Optimize_Windows_OS-000000?style=for-the-badge&logo=file-code&logoColor=white)](./Windows%20Optimize.md)
+[![](https://custom-icon-badges.herokuapp.com/badge/VS_Code_Setup_README-000000?style=for-the-badge&logo=file-code&logoColor=white)](./src/VSCode_Setup.md)
+[![](https://custom-icon-badges.herokuapp.com/badge/Optimize_Windows_OS-000000?style=for-the-badge&logo=file-code&logoColor=white)](./src/Windows%20Optimize.md)
 
 </div>
 
