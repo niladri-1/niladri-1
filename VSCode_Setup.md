@@ -1,47 +1,122 @@
-/* VS Code Extensions:
-		→ Class Collapse
-		→ Code Runner
-		→ ES7 React/Redux/GraphQL/ReactNative
-		→ File Tree Extractor
-		→ Fluent Icons
-		→ Inline Fold by "ctf0"
-		→ Live Server
-		→ Material Icon Theme
-		→ Multiple Cursor Case
-		→ One Dark Pro
-		→ Path Intellisense
-		→ Tailwind CSS Intellisense
+<div align="center">
 
-  Developer Apps:
-	  → Visual Studio Code
-	  → Cascadia Code or JetBrains Mono
-		→ Chrome, Firefox Browser
-		→ Node.js (v@18, v@Latest)
-		→ NVM (nvm list, use vName, install vName, uninstall vName)
-		→ Postman
-		→ MongoDB Compass
-		→ Git & Git Desktop
-		→ Oracle VirtualBox
-		→ Rambox
-		→ Obsidian
-		→ LocalSend
+# ⚡ VS Code Setup — From Zero to Pro
 
-  Shortcuts: Frequently Used
-		→ Ctrl + Alt + ↑ / ↓  → Add multi-cursor vertically
-    → Alt + ↑ / ↓         → Move line or selection up/down
-    → Ctrl + `            → Toggle integrated terminal
-    → Ctrl + D            → Select next matching word
-    → Ctrl + P            → Quick file open (Go to file)
-    → Ctrl + R            → Open recent workspaces
-    → Ctrl + Shift + K    → Delete current line
-    → Alt + Shift + F     → Format document or selection
-    → Ctrl + Shift + [    → Fold code block
-    → Ctrl + Shift + ]    → Unfold code block
-    → Ctrl + W            → Close current editor tab
-    → Ctrl + B     				→ Toggle sidebar (focus mode)
-    → Ctrl + Shift + O 		→ Go to symbol in file
-	*/
+*Install the extensions → paste the settings → done. Your editor will look exactly like this 👇*
 
+<img src="https://raw.githubusercontent.com/niladri-1/niladri-1/refs/heads/main/VS_Code_demo.png" width="500px" alt="VS Code Setup Preview">
+
+</div>
+
+---
+
+## 🧩 Extensions &nbsp;`Ctrl + Shift + X` → search name → Install
+
+| | | | |
+|---|---|---|---|
+| **One Dark Pro** | **Material Icon Theme** | **Fluent Icons** | **ES7 React/Redux/GraphQL** |
+| **Path Intellisense** | **Code Runner** | **Live Server** | **Multiple Cursor Case** |
+| **File Tree Extractor** | **Inline Fold** *(by ctf0)* | **Class Collapse** | **Tailwind CSS IntelliSense** |
+
+---
+
+## 🛠️ Tools to Install on Your Computer
+
+> 🔴 **Must have** → 🟡 **Nice to have**
+
+| | | | |
+|---|---|---|---|
+| 🔴 **[VS Code](https://code.visualstudio.com)** | 🔴 **[JetBrains Mono](https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf)** | 🔴 **[Cascadia Code](https://github.com/microsoft/cascadia-code/releases)** | 🔴 **Node.js `v18+`** |
+| 🔴 **Git + GitHub Desktop** | 🔴 **Chrome + Firefox** | 🔴 **Postman** | 🔴 **MongoDB Compass** |
+| 🟡 **NVM** | 🟡 **VirtualBox** | 🟡 **Rambox** | 🟡 **Obsidian** |
+| 🟡 **LocalSend** | | | |
+
+```bash
+nvm list            # See installed Node versions
+nvm use v18         # Switch to v18
+nvm install v20     # Install v20
+nvm uninstall v18   # Remove v18
+```
+
+---
+
+## ⌨️ Keyboard Shortcuts
+
+<table><tr><td>
+
+**✏️ Editing**
+
+| Shortcut | Action |
+|---|---|
+| `Alt + ↑ / ↓` | Move line up / down |
+| `Ctrl + D` | Select next match |
+| `Ctrl + Alt + ↑ / ↓` | Add cursor above / below |
+| `Ctrl + Shift + K` | Delete line |
+| `Alt + Shift + F` | Format file |
+
+</td><td>
+
+**🗂️ Navigate + View**
+
+| Shortcut | Action |
+|---|---|
+| `Ctrl + P` | Quick-open file |
+| `Ctrl + R` | Recent projects |
+| `Ctrl + Shift + O` | Jump to function / var |
+| `` Ctrl + ` `` | Toggle terminal |
+| `Ctrl + B` | Toggle sidebar |
+| `Ctrl + W` | Close tab |
+| `Ctrl + Shift + [ / ]` | Fold / Unfold block |
+
+</td></tr></table>
+
+---
+
+## ✍️ Optional — Cursive Font Style 😍
+
+> Want keywords like `const` `function` `return` and all comments to look *italic & elegant*?
+> That's exactly what you see in the preview image above. Here's how 👇
+
+**1 — Download & install both fonts** *(right-click the `.ttf` file → Install)*
+
+[![](https://custom-icon-badges.herokuapp.com/badge/Download_JetBrains_Mono-000000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf)
+&nbsp; Cascadia Code → [github.com/microsoft/cascadia-code/releases](https://github.com/microsoft/cascadia-code/releases) *(install Regular + Italic)*
+
+**2 — In `settings.json`, find and replace these 2 lines:**
+
+```json
+❌  "editor.fontFamily": "'JetBrains Mono', monospace",
+❌  "editor.fontLigatures": true,
+```
+```json
+✅  "editor.fontFamily": "'Cascadia Code', monospace",
+✅  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+```
+
+**3 — Paste this before the last `}` in `settings.json`:**
+
+```json
+"editor.tokenColorCustomizations": {
+  "textMateRules": [{
+    "scope": [
+      "comment", "entity.name.type.class", "keyword",
+      "storage.modifier", "storage.type", "support.class.builtin",
+      "keyword.control", "constant.language",
+      "entity.other.attribute-name", "string.quoted.single",
+      "entity.name.method"
+    ],
+    "settings": { "fontStyle": "italic" }
+  }]
+}
+```
+
+---
+
+## ⚙️ VS Code Settings
+
+> `Ctrl + Shift + P` → type **Open User Settings (JSON)** → Enter → select all → delete → paste below → `Ctrl + S`
+
+```json
 {
   "workbench.startupEditor": "none",
   "workbench.hover.delay": null,
@@ -155,10 +230,24 @@
   "css.lint.unknownAtRules": "ignore",
   "css.lint.vendorPrefix": "ignore",
   "emmet.showSuggestionsAsSnippets": true,
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "typescript.updateImportsOnFileMove.enabled": "always",
+  "js/ts.updateImportsOnFileMove.enabled": "always",
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "typescript": "typescriptreact"
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/build": true
   }
 }
+```
+
+---
+
+<div align="center">
+
+**🎉 You're all set up and coding in style!**
+*Found this helpful? Drop a ⭐ star on the repo!*
+
+</div>

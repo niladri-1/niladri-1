@@ -37,25 +37,31 @@
 
 ---
 
-<h3 align="center">☕ Setup your SDE Environment (VS Code) </h3>
-<p align="center">💻 Level up your coding experience now and code in style!</p>
+---
 
+<h2 align="center">⚡ VS Code — SDE Environment Setup</h2>
+<p align="center">A clean, minimal setup to make your editor look & feel like a pro's 💻</p>
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/niladri-1/niladri-1/refs/heads/main/VS_Code_demo.png" target="_blank">
     <img src="https://raw.githubusercontent.com/niladri-1/niladri-1/refs/heads/main/VS_Code_demo.png" width="500px" alt="VS Code Setup Preview">
   </a>
 </p>
+
+<p align="center">
+  <i>Extensions · Shortcuts · Settings · Cursive Font — all in one place</i>
+</p>
+
 <br>
 
 <div align="center">
 
-[![](https://custom-icon-badges.herokuapp.com/badge/download_Font-000000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/niladri-1/niladri-1/raw/main/JetBrainsMono-Regular.ttf)
-[![](https://custom-icon-badges.herokuapp.com/badge/Vs_Code_json_file-000000?style=for-the-badge&logo=file-code&logoColor=white)](https://github.com/niladri-1/niladri-1/blob/main/settings.json)
-
+[![](https://custom-icon-badges.herokuapp.com/badge/VS_Code_Setup_README-000000?style=for-the-badge&logo=file-code&logoColor=white)](https://github.com/niladri-1/niladri-1/blob/main/VSCode_Setup.md)
 [![](https://custom-icon-badges.herokuapp.com/badge/Optimize_Windows_OS-000000?style=for-the-badge&logo=file-code&logoColor=white)](./Windows%20Optimize.md)
 
 </div>
+
+---
 
 ---
 
