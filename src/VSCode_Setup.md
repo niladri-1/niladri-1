@@ -26,7 +26,7 @@
 
 | | | | |
 |---|---|---|---|
-| 🔴 **VS Code** | 🔴 **[JetBrains Mono](./font/JetBrainsMono-Regular.ttf)** | 🔴 **[Cascadia Code](./font/CascadiaCode-Regular.ttf)** | 🔴 **[Cascadia Code (Italic)](./font/CascadiaCode-Italic.ttf)** | 🔴 **Node.js `v18+`** |
+| 🔴 **VS Code** | 🔴 **JetBrains Mono** | 🔴 **Cascadia Code** | 🔴 **Cascadia Code (Italic)** | 🔴 **Node.js `v18+`** |
 | 🔴 **Git + GitHub Desktop** | 🔴 **Chrome + Firefox** | 🔴 **Postman** | 🔴 **MongoDB Compass** |
 | 🟡 **NVM** | 🟡 **VirtualBox** | 🟡 **Rambox** | 🟡 **Obsidian** |
 | 🟡 **LocalSend** | | | |
@@ -79,9 +79,9 @@ nvm uninstall v18   # Remove v18
 
 **1 — Download & install both fonts** *(right-click the `.ttf` file → Install)*
 
-[![](https://custom-icon-badges.herokuapp.com/badge/JetBrains_Mono-000000?style=for-the-badge&logo=download&logoColor=white)](./font/JetBrainsMono-Regular.ttf)
-[![](https://custom-icon-badges.herokuapp.com/badge/Cascadia_Code-000000?style=for-the-badge&logo=download&logoColor=white)](./font/CascadiaCode-Regular.ttf)
-[![](https://custom-icon-badges.herokuapp.com/badge/Cascadia_Code_(Italic)-000000?style=for-the-badge&logo=download&logoColor=white)](./font/CascadiaCode-Italic.ttf)
+[![](https://custom-icon-badges.herokuapp.com/badge/JetBrains_Mono-000000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/niladri-1/niladri-1/blob/main/src/font/JetBrainsMono-Regular.ttf)
+[![](https://custom-icon-badges.herokuapp.com/badge/Cascadia_Code-000000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/niladri-1/niladri-1/blob/main/src/font/CascadiaCode-Regular.ttf)
+[![](https://custom-icon-badges.herokuapp.com/badge/Cascadia_Code_(Italic)-000000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/niladri-1/niladri-1/blob/main/src/font/CascadiaCode-Italic.ttf)
 
 **2 — In `settings.json`, find and replace these 2 lines:**
 
