@@ -11,7 +11,6 @@
   </a>
 
 ---
-
 <h2>Github Starts</h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niladri-1&theme=aura)
@@ -21,21 +20,22 @@
 ---
 
 <div>
+
   <h2>Lets Connect</h2>
-  <a href="mailto:code.niladri+readme@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/niladri1">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://niladri1.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://open.spotify.com/playlist/4CWnJIlSwvCrb8S1gqynB4?si=ae1f66a7461a4587">
-    <img src="https://img.shields.io/badge/Spotify-Coding_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
-  </a>
+	<a href="mailto:code.niladri+readme@gmail.com">
+		<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+	</a>
+	<a href="https://linkedin.com/in/niladri1">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="https://niladri1.vercel.app/">
+		<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+	</a>
   <img src="https://komarev.com/ghpvc/?username=niladri-1&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+
 </div>
+
+---
 
 ---
 
@@ -60,6 +60,8 @@
 [![](https://custom-icon-badges.herokuapp.com/badge/Optimize_Windows_OS-000000?style=for-the-badge&logo=file-code&logoColor=white)](./src/Windows%20Optimize.md)
 
 </div>
+
+---
 
 ---
 
