@@ -31,6 +31,9 @@
 	<a href="https://niladri1.vercel.app/">
 		<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 	</a>
+	 <a href="https://open.spotify.com/playlist/4CWnJIlSwvCrb8S1gqynB4?si=ae1f66a7461a4587">
+    <img src="https://img.shields.io/badge/Spotify-Coding_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=niladri-1&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
 </div>
