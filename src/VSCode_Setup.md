@@ -128,11 +128,10 @@ nvm uninstall v18   # Remove v18
   "workbench.tree.renderIndentGuides": "none",
   "workbench.list.smoothScrolling": true,
   "workbench.tree.indent": 15,
-  "workbench.editor.showTabs": "none",
   "workbench.editor.limit.value": 1,
+  "workbench.editor.showTabs": "none",
   "workbench.editor.limit.enabled": true,
   "workbench.editor.limit.perEditorGroup": true,
-  "workbench.layoutControl.enabled": false,
   "workbench.tips.enabled": false,
   "workbench.navigationControl.enabled": false,
   "workbench.secondarySideBar.defaultVisibility": "hidden",
@@ -151,10 +150,10 @@ nvm uninstall v18   # Remove v18
   "explorer.confirmPasteNative": false,
   "editor.showFoldingControls": "never",
   "editor.foldingHighlight": false,
+  "editor.lineHeight": 24,
   "editor.fontSize": 14.5,
   "editor.fontFamily": "'JetBrains Mono', monospace",
   "editor.fontLigatures": true,
-  "editor.lineHeight": 25,
   "editor.cursorWidth": 3,
   "editor.cursorBlinking": "phase",
   "editor.cursorSmoothCaretAnimation": "on",
@@ -202,6 +201,11 @@ nvm uninstall v18   # Remove v18
   "editor.minimap.renderCharacters": false,
   "editor.minimap.size": "fit",
   "editor.stickyScroll.enabled": false,
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.codeActionsOnSave": {
+    "source.addMissingImports": "always",
+    "source.organizeImports": "always",
+  },
   "diffEditor.ignoreTrimWhitespace": true,
   "diffEditor.hideUnchangedRegions.enabled": true,
   "breadcrumbs.enabled": false,
@@ -232,15 +236,28 @@ nvm uninstall v18   # Remove v18
   "css.lint.vendorPrefix": "ignore",
   "emmet.showSuggestionsAsSnippets": true,
   "js/ts.updateImportsOnFileMove.enabled": "always",
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 100,
+  "prettier.singleAttributePerLine": true,
+  "prettier.proseWrap": "always",
+  "prettier.htmlWhitespaceSensitivity": "ignore",
+  "prettier.semi": true,
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "all",
+  "prettier.arrowParens": "always",
+  "prettier.bracketSpacing": true,
+  "prettier.bracketSameLine": false,
+  "prettier.jsxSingleQuote": false,
+  "prettier.endOfLine": "lf",
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
-    "typescript": "typescriptreact"
+    "typescript": "typescriptreact",
   },
   "search.exclude": {
     "**/node_modules": true,
     "**/dist": true,
-    "**/build": true
-  }
+    "**/build": true,
+  },
 }
 ```
 
