@@ -22,48 +22,60 @@
 
 ## 2. Services (Disabled)
 
-1. Assigned Access Manager Service
-2. Background Intelligent Transfer Service
-3. BitLocker Drive Encryption Service
-4. Bluetooth Audio Gateway Service
-5. Bluetooth Support Service
-6. Computer Browser
-7. Connected Devices Platform Service
-8. Connected User Experience and Telemetry
-9. Diagnostic Execution Service
-10. Diagnostic Policy Service
-11. Diagnostic Service Host
-12. Diagnostic System Host
-13. Downloaded Maps Manager
-14. Fax
-15. Geolocation Service
-16. IP Helper
-17. Map Manager
-18. Netlogon
-19. Parental Control
-20. Phone Service
-21. Print Spooler
-22. Program Compatibility Assistant Service
-23. Remote Desktop Configuration
-24. Remote Desktop Service
-25. Remote Desktop Service UserMode Port Redirector
-26. Remote Registry
-27. Retail Demo Service
-28. Secondary Logon
-29. Sensor Service
-30. Smart Card
-31. SysMain
-32. Touch Keyboard and Handwriting Panel Service
-33. WalletService
-34. Windows Biometric Service
-35. Windows Error Reporting Service
-36. Windows Image Acquisition (WIA)
-37. Windows Insider Service
-38. Windows Media Player Network Sharing Service
-39. Windows Mobile Hotspot Service
-40. Windows Search
-41. Work Folders
-42. Xbox Accessory Management Service
+1. AVCTP service
+2. Assigned Access Manager Service
+3. Background Intelligent Transfer Service -> Manual
+4. BitLocker Drive Encryption Service
+5. Bluetooth Audio Gateway Service
+6. Bluetooth Support Service
+7. Computer Browser
+8. Connected Devices Platform Service
+9. Connected User Experience and Telemetry
+10. Device Management Wireless Application Protocol (WAP) Push message Routing Service
+11. Diagnostic Execution Service
+12. Diagnostic Policy Service (Automatic)
+13. Diagnostic Service Host
+14. Diagnostic System Host
+15. Downloaded Maps Manager
+16. Fax
+17. File History Service
+18. Geolocation Service
+19. Internet Connection Sharing (ICS)
+20. IP Helper (Automatic)
+21. Map Manager
+22. Netlogon
+23. Parental Control
+24. Phone Service
+25. Print Spooler
+26. Program Compatibility Assistant Service
+27. Remote Access Connection Manager
+28. Remote Desktop Configuration
+29. Remote Desktop Service
+30. Remote Desktop Service UserMode Port Redirector
+31. Remote Registry
+32. Retail Demo Service
+33. Secondary Logon (Manual)
+34. Sensor Service
+35. Smart Card
+36. Smart Card Device Enumeration Service
+37. Smart Card Removal Policy
+38. SysMain
+39. Telephony
+40. Touch Keyboard and Handwriting Panel Service
+41. WalletService
+42. Windows Biometric Service
+43. Windows Camera Frame Server
+44. Windows Error Reporting Service
+45. Windows Image Acquisition (WIA)
+46. Windows Insider Service
+47. Windows Media Player Network Sharing Service
+48. Windows Mobile Hotspot Service
+49. Windows Search
+50. Work Folders
+51. Xbox Accessory Management Service
+52. Xbox Live Auth Manager
+53. Xbox Live Game Save
+54. Xbox Live Networking Service
 
 ---
 
@@ -77,6 +89,8 @@
 6. Uncheck the **Automatically manage paging file size for all drives** box
 7. Select **C: drive**
 8. Choose **Custom Size**
+  - Initial size: 4096 MB (4 GB)
+  - Maximum size: 8192 MB (8 GB)
 9. Enter desired values
 10. Click **Set** > **OK**
 
@@ -111,7 +125,6 @@
 5. Adjust the following settings:
     - Animate controls and elements inside windows
     - Animate windows when minimizing & maximizing
-    - Enable Peek
     - Fade or slide menus into view
     - Show thumbnails instead of icons
     - Show window contents while dragging
@@ -234,13 +247,8 @@
 
 1. Navigate to:
 
-    - `HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control`
-2. Modify `WaitToKillServiceTimeout` to **500**
-
-3. Navigate to:
-
     - `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control`
-4. Modify `WaitToKillServiceTimeout` to **100**
+2. Modify `WaitToKillServiceTimeout` to **2000**
 
 ### Win32PrioritySeparation
 
@@ -338,4 +346,15 @@ Run the following command:
 
 ```cmd
 sfc /scannow
+```
+
+```cmd
+defrag /O C:
+```
+
+```cmd
+winsat disk -drive c
+```
+```cmd
+dism /online /export-driver /destination:E:\Drivers
 ```
