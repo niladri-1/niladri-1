@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚡ VS Code Setup — From Zero to Pro
+# ⚡ VS Code Setup
 
-*Install the extensions → paste the settings → done. Your editor will look exactly like this 👇*
+_Extensions → Apps → Shortcuts → Settings — copy, paste, done._
 
 <img src="./public/VS_Code_demo.png" width="500px" alt="VS Code Setup Preview">
 
@@ -10,112 +10,71 @@
 
 ---
 
-## 🧩 Extensions &nbsp;`Ctrl + Shift + X` → search name → Install
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-| | | | |
-|---|---|---|---|
-| **One Dark Pro** | **Material Icon Theme** | **Fluent Icons** | **ES7 React/Redux/GraphQL** |
-| **Path Intellisense** | **Code Runner** | **Live Server** | **Multiple Cursor Case** |
-| **File Tree Extractor** | **Inline Fold** *(by ctf0)* | **Class Collapse** | **Tailwind CSS IntelliSense** |
+### 🧩 Extensions &nbsp;`Ctrl + Shift + X`
+
+| Extensions Names              | Extensions Names        |
+| ----------------------------- | ----------------------- |
+| 1. Code Runner                | 6. Material Icon Theme  |
+| 2. ES7 React/Redux/GraphQL... | 7. Multiple Cursor Case |
+| 3. File Tree Extractor        | 8. One Dark Pro         |
+| 4. Fluent Icons               | 9. Prettier             |
+| 5. Live Server                | 10. Tailwind CSS        |
 
 ---
 
-## 🛠️ Tools to Install on Your Computer
+### 🖥️ Apps to Install
 
-> 🔴 **Must have** → 🟡 **Nice to have**
-
-| | | | |
-|---|---|---|---|
-| 🔴 **VS Code** | 🔴 **JetBrains Mono** | 🔴 **Cascadia Code** | 🔴 **Cascadia Code (Italic)** | 🔴 **Node.js `v18+`** |
-| 🔴 **Git + GitHub Desktop** | 🔴 **Chrome + Firefox** | 🔴 **Postman** | 🔴 **MongoDB Compass** |
-| 🟡 **NVM** | 🟡 **VirtualBox** | 🟡 **Rambox** | 🟡 **Obsidian** |
-| 🟡 **LocalSend** | | | |
+| Apps Names                                           | Apps Names                                                                                                   |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 1. [VS Code](https://code.visualstudio.com/download) | 5. [JetBrains Mono Font](https://github.com/niladri-1/niladri-1/raw/main/src/font/JetBrainsMono-Regular.ttf) |
+| 2. [Node.js](https://nodejs.org/en/download/current) | 6. [NVM (`latest` + `v18`)](https://www.nvmnode.com/guide/download.html)                                     |
+| 3. [Git](https://git-scm.com/install/windows)        | 7. [Chrome](https://www.google.com/chrome/what-you-make-of-it)                                               |
+| 4. [Postman](https://git-scm.com/install/windows)    | 8. [MongoDB](https://www.mongodb.com/try/download/terraform-provider)                                        |
 
 ```bash
-nvm list            # See installed Node versions
-nvm use v18         # Switch to v18
-nvm install v24     # Install v24
-nvm uninstall v18   # Remove v18
+nvm list          # see installed version
+nvm install v18   # install
+nvm use v18       # switch
+nvm uninstall v18 # remove
 ```
+
+</td>
+<td valign="top" width="50%">
+
+### ⌨️ Shortcuts
+
+| Shortcut                 | Action                   |
+| ------------------------ | ------------------------ |
+| `Ctrl + P`               | Quick file open          |
+| `Ctrl + R`               | Recent workspaces        |
+| `Ctrl + D`               | Select next match        |
+| `Ctrl + L`               | Select current line      |
+| `Ctrl + W`               | Close tab                |
+| `Ctrl + B`               | Toggle sidebar           |
+| `` Ctrl + ` ``           | Toggle terminal          |
+| `Ctrl + Shift + K`       | Delete line              |
+| `Ctrl + Shift + O`       | Go to symbol             |
+| `Ctrl + Shift + [` / `]` | Fold / Unfold            |
+| `Alt + ↑ / ↓`            | Move line up / down      |
+| `Alt + Shift + F`        | Format document          |
+| `Ctrl + Alt + ↑ / ↓`     | Add cursor above / below |
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⌨️ Keyboard Shortcuts
+## ⚙️ Settings
 
-<table><tr><td>
+`Ctrl + Shift + P` → **Open User Settings (JSON)** → select all → paste → save
 
-**✏️ Editing**
-
-| Shortcut | Action |
-|---|---|
-| `Alt + ↑ / ↓` | Move line up / down |
-| `Ctrl + D` | Select next match |
-| `Ctrl + Alt + ↑ / ↓` | Add cursor above / below |
-| `Ctrl + Shift + K` | Delete line |
-| `Alt + Shift + F` | Format file |
-
-</td><td>
-
-**🗂️ Navigate + View**
-
-| Shortcut | Action |
-|---|---|
-| `Ctrl + P` | Quick-open file |
-| `Ctrl + R` | Recent projects |
-| `Ctrl + Shift + O` | Jump to function / var |
-| `` Ctrl + ` `` | Toggle terminal |
-| `Ctrl + B` | Toggle sidebar |
-| `Ctrl + W` | Close tab |
-| `Ctrl + Shift + [ / ]` | Fold / Unfold block |
-
-</td></tr></table>
-
----
-
-## ✍️ Optional — Cursive Font Style 😍
-
-> Want keywords like `const` `function` `return` and all comments to look *italic & elegant*?
-> That's exactly what you see in the preview image above. Here's how 👇
-
-**1 — Download & install both fonts** *(right-click the `.ttf` file → Install)*
-
-[![](https://custom-icon-badges.herokuapp.com/badge/JetBrains_Mono-000000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/niladri-1/niladri-1/blob/main/src/font/JetBrainsMono-Regular.ttf)
-[![](https://custom-icon-badges.herokuapp.com/badge/Cascadia_Code-000000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/niladri-1/niladri-1/blob/main/src/font/CascadiaCode-Regular.ttf)
-[![](https://custom-icon-badges.herokuapp.com/badge/Cascadia_Code_(Italic)-000000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/niladri-1/niladri-1/blob/main/src/font/CascadiaCode-Italic.ttf)
-
-**2 — In `settings.json`, find and replace these 2 lines:**
-
-```json
-❌  "editor.fontFamily": "'JetBrains Mono', monospace",
-❌  "editor.fontLigatures": true,
-```
-```json
-✅  "editor.fontFamily": "'Cascadia Code', monospace",
-✅  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
-```
-
-**3 — Paste this before the last `}` in `settings.json`:**
-
-```json
-"editor.tokenColorCustomizations": {
-  "textMateRules": [{
-    "scope": [
-      "comment", "entity.name.type.class", "keyword",
-      "storage.modifier", "storage.type", "support.class.builtin",
-      "keyword.control", "constant.language",
-      "entity.other.attribute-name", "string.quoted.single",
-      "entity.name.method"
-    ],
-    "settings": { "fontStyle": "italic" }
-  }]
-}
-```
-
----
-
-## ⚙️ VS Code Settings
-
-> `Ctrl + Shift + P` → type **Open User Settings (JSON)** → Enter → select all → delete → paste below → `Ctrl + S`
+<details>
+<summary>Click to expand settings.json</summary>
 
 ```json
 {
@@ -131,16 +90,18 @@ nvm uninstall v18   # Remove v18
   "workbench.editor.limit.value": 1,
   "workbench.editor.showTabs": "none",
   "workbench.editor.limit.enabled": true,
-	 "workbench.browser.showInTitleBar": false,
-  "workbench.editor.editorActionsLocation": "hidden",
   "workbench.editor.limit.perEditorGroup": true,
   "workbench.tips.enabled": false,
   "workbench.navigationControl.enabled": false,
   "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "workbench.browser.showInTitleBar": false,
   "workbench.activityBar.location": "top",
+  "workbench.settings.enableNaturalLanguageSearch": false,
   "workbench.editor.enablePreview": false,
   "workbench.colorTheme": "One Dark Pro Night Flat",
   "workbench.productIconTheme": "fluent-icons",
+  "workbench.editor.editorActionsLocation": "hidden",
+  "workbench.layoutControl.enabled": false,
   "window.menuBarVisibility": "toggle",
   "window.title": "${dirty} ${activeEditorMedium}",
   "window.newWindowDimensions": "inherit",
@@ -152,7 +113,7 @@ nvm uninstall v18   # Remove v18
   "explorer.confirmPasteNative": false,
   "editor.showFoldingControls": "never",
   "editor.foldingHighlight": false,
-  "editor.lineHeight": 24,
+  "editor.lineHeight": 23,
   "editor.fontSize": 14.5,
   "editor.fontFamily": "'JetBrains Mono', monospace",
   "editor.fontLigatures": true,
@@ -204,9 +165,10 @@ nvm uninstall v18   # Remove v18
   "editor.minimap.size": "fit",
   "editor.stickyScroll.enabled": false,
   "editor.suggestOnTriggerCharacters": true,
+  "editor.emptySelectionClipboard": false,
   "editor.codeActionsOnSave": {
     "source.addMissingImports": "always",
-    "source.organizeImports": "always",
+    "source.organizeImports": "always"
   },
   "diffEditor.ignoreTrimWhitespace": true,
   "diffEditor.hideUnchangedRegions.enabled": true,
@@ -215,6 +177,7 @@ nvm uninstall v18   # Remove v18
   "files.autoSaveDelay": 1000,
   "files.trimTrailingWhitespace": true,
   "files.trimFinalNewlines": true,
+  "files.eol": "\n",
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.smoothScrolling": true,
   "terminal.integrated.fontFamily": "'JetBrains Mono'",
@@ -237,9 +200,13 @@ nvm uninstall v18   # Remove v18
   "css.lint.unknownAtRules": "ignore",
   "css.lint.vendorPrefix": "ignore",
   "emmet.showSuggestionsAsSnippets": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
   "js/ts.updateImportsOnFileMove.enabled": "always",
   "prettier.singleQuote": true,
-  "prettier.printWidth": 120,
+  "prettier.printWidth": 100,
   "prettier.singleAttributePerLine": false,
   "prettier.proseWrap": "always",
   "prettier.htmlWhitespaceSensitivity": "ignore",
@@ -251,25 +218,14 @@ nvm uninstall v18   # Remove v18
   "prettier.bracketSameLine": false,
   "prettier.jsxSingleQuote": false,
   "prettier.endOfLine": "lf",
-  "emmet.includeLanguages": {
-    "javascript": "javascriptreact",
-    "typescript": "typescriptreact",
-  },
+  "telemetry.telemetryLevel": "error",
+  "npm.fetchOnlinePackageInfo": false,
   "search.exclude": {
     "**/node_modules": true,
     "**/dist": true,
-    "**/build": true,
-  },
+    "**/build": true
+  }
 }
 ```
 
----
-
-<div align="center">
-
-**🎉 You're all set up and coding in style!**
-*Found this helpful? Drop a ⭐ star on the repo!*
-
-[![](https://custom-icon-badges.herokuapp.com/badge/Optimize_Windows_OS-000000?style=for-the-badge&logo=file-code&logoColor=white)](../src/Windows%20Optimize.md)
-
-</div>
+</details>
