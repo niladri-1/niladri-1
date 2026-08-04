@@ -87,8 +87,8 @@ nvm uninstall v18 # remove
   "workbench.tree.renderIndentGuides": "none",
   "workbench.list.smoothScrolling": true,
   "workbench.tree.indent": 15,
-  "workbench.editor.limit.value": 1,
   "workbench.editor.showTabs": "none",
+  "workbench.editor.limit.value": 1,
   "workbench.editor.limit.enabled": true,
   "workbench.editor.limit.perEditorGroup": true,
   "workbench.tips.enabled": false,
@@ -167,8 +167,9 @@ nvm uninstall v18 # remove
   "editor.suggestOnTriggerCharacters": true,
   "editor.emptySelectionClipboard": false,
   "editor.codeActionsOnSave": {
+    "source.sortImports": "always",
     "source.addMissingImports": "always",
-    "source.organizeImports": "always"
+    "source.organizeImports": "always",
   },
   "diffEditor.ignoreTrimWhitespace": true,
   "diffEditor.hideUnchangedRegions.enabled": true,
@@ -180,7 +181,7 @@ nvm uninstall v18 # remove
   "files.eol": "\n",
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.smoothScrolling": true,
-  "terminal.integrated.fontFamily": "'JetBrains Mono'",
+  "terminal.integrated.fontFamily": "'Source Code', 'Source Code', 'JetBrains Mono'",
   "terminal.integrated.fontWeight": "normal",
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.cursorBlinking": true,
@@ -202,7 +203,7 @@ nvm uninstall v18 # remove
   "emmet.showSuggestionsAsSnippets": true,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
-    "typescript": "typescriptreact"
+    "typescript": "typescriptreact",
   },
   "js/ts.updateImportsOnFileMove.enabled": "always",
   "prettier.singleQuote": true,
@@ -223,9 +224,18 @@ nvm uninstall v18 # remove
   "search.exclude": {
     "**/node_modules": true,
     "**/dist": true,
-    "**/build": true
-  }
+    "**/build": true,
+  },
+  "[snippets]": {
+    "editor.defaultFormatter": "vscode.json-language-features",
+  },
+  "files.associations": {
+    ".prettierrc": "json",
+    ".eslintrc": "json",
+    ".stylelintrc": "json",
+  },
 }
+
 ```
 
 </details>
