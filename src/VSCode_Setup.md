@@ -16,13 +16,14 @@ _Extensions → Apps → Shortcuts → Settings — copy, paste, done._
 
 ### 🧩 Extensions &nbsp;`Ctrl + Shift + X`
 
-| Extensions Names              | Extensions Names        |
-| ----------------------------- | ----------------------- |
-| 1. Code Runner                | 6. Material Icon Theme  |
-| 2. ES7 React/Redux/GraphQL... | 7. Multiple Cursor Case |
-| 3. File Tree Extractor        | 8. One Dark Pro         |
-| 4. Fluent Icons               | 9. Prettier             |
-| 5. Live Server                | 10. Tailwind CSS        |
+| Extensions Names              | Extensions Names          |
+| ----------------------------- | ------------------------- |
+| 1. Code Runner                | 7. Multiple Cursor Case   |
+| 2. ES7 React/Redux/GraphQL... | 8. One Dark Pro           |
+| 3. File Tree Extractor        | 9. Prettier               |
+| 4. Fluent Icons               | 10. Tailwind CSS          |
+| 5. Live Server                | 11. VsCode Action Buttons |
+| 6. Material Icon Theme        |                           |
 
 ---
 
@@ -68,6 +69,10 @@ nvm uninstall v18 # remove
 </table>
 
 ---
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
 ## ⚙️ Settings
 
@@ -169,7 +174,7 @@ nvm uninstall v18 # remove
   "editor.codeActionsOnSave": {
     "source.sortImports": "always",
     "source.addMissingImports": "always",
-    "source.organizeImports": "always",
+    "source.organizeImports": "always"
   },
   "diffEditor.ignoreTrimWhitespace": true,
   "diffEditor.hideUnchangedRegions.enabled": true,
@@ -203,7 +208,7 @@ nvm uninstall v18 # remove
   "emmet.showSuggestionsAsSnippets": true,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
-    "typescript": "typescriptreact",
+    "typescript": "typescriptreact"
   },
   "js/ts.updateImportsOnFileMove.enabled": "always",
   "prettier.singleQuote": true,
@@ -224,18 +229,208 @@ nvm uninstall v18 # remove
   "search.exclude": {
     "**/node_modules": true,
     "**/dist": true,
-    "**/build": true,
+    "**/build": true
   },
   "[snippets]": {
-    "editor.defaultFormatter": "vscode.json-language-features",
+    "editor.defaultFormatter": "vscode.json-language-features"
   },
   "files.associations": {
     ".prettierrc": "json",
     ".eslintrc": "json",
-    ".stylelintrc": "json",
+    ".stylelintrc": "json"
   },
+  // VsCode Action Buttons
+  "actionButtons": {
+    "reloadButton": "$(sync) Reload",
+    "defaultColor": "#9DA5B4",
+    "commands": [
+      {
+        "name": "$(symbol-event) Vite",
+        "tooltip": "Create Vite application",
+        "color": "#9DA5B4",
+        "command": "npm create vite@latest ./"
+      },
+      {
+        "name": "$(package) init",
+        "tooltip": "Initialize npm",
+        "color": "#9DA5B4",
+        "command": "npm init -y"
+      },
+      {
+        "name": "$(server) Packages",
+        "tooltip": "Install backend packages: Express, Nodemon, Mongoose, Dotenv, Cors",
+        "color": "#9DA5B4",
+        "command": "npm install express nodemon mongoose dotenv cors"
+      },
+      {
+        "name": "$(play) Dev",
+        "tooltip": "Run npm run dev",
+        "color": "#9DA5B4",
+        "command": "npm run dev"
+      },
+      {
+        "name": "$(play) Start",
+        "tooltip": "Run npm start",
+        "color": "#9DA5B4",
+        "command": "npm start"
+      },
+      {
+        "name": "$(versions) Node 18",
+        "tooltip": "Switch to Node.js 18",
+        "color": "#9DA5B4",
+        "command": "nvm use 18"
+      },
+      {
+        "name": "$(versions) Node 24",
+        "tooltip": "Switch to Node.js 24",
+        "color": "#9DA5B4",
+        "command": "nvm use 24"
+      }
+    ]
+  }
 }
-
 ```
 
 </details>
+
+</td>
+<td valign="top" width="50%">
+
+## ⚙️ Snippet Config File
+
+<details>
+<summary>Click to expand global.code-snippets</summary>
+
+```json
+{
+  "CSS * Code Snippet": {
+    "scope": "css,scss,sass,less,postcss",
+    "prefix": "*_&_root_snippet",
+    "body": [
+      "* {",
+      "  margin: 0;",
+      "  padding: 0;",
+      "  box-sizing: border-box;",
+      "}",
+      "",
+      ":root {",
+      "  /* Colors for buttons and links */",
+      "  --primary-color: hsl(239, 84%, 67%); /* Main indigo color for primary actions */",
+      "  --primary-hover: hsl(243, 75%, 59%); /* Hover color when mouse is over buttons */",
+      "  --secondary-color: hsl(160, 84%, 39%); /* Emerald green for success alerts and icons */",
+      "  --accent-color: hsl(350, 89%, 60%); /* Rose Red - alerts, CTA highlights */",
+      "",
+      "  /* Background colors */",
+      "  --bg-primary: hsl(0, 0%, 0%); /* Pure black background for the main screen */",
+      "  --bg-secondary: hsl(0, 0%, 7%); /* Very dark gray background for cards and boxes */",
+      "  --bg-tertiary: hsl(0, 0%, 13%); /* Slightly lighter gray for active menu items */",
+      "",
+      "  /* Text colors */",
+      "  --text-primary: hsl(0, 0%, 100%); /* Pure white text for main content */",
+      "  --text-secondary: hsl(240, 5%, 65%); /* Soft gray text for minor details */",
+      "  --text-disabled: hsl(215, 16%, 47%); /* Disabled states, placeholders */",
+      "",
+      "  /* Borders & Dividers */",
+      "  --border-color: hsl(240, 4%, 16%); /* Border lines between sections */",
+      "}",
+      ""
+    ]
+  },
+  "CSS Box Shadow": {
+    "scope": "css,scss,sass,less,postcss",
+    "prefix": "box_shadow_snippt",
+    "body": [
+      "box-shadow: ${1:inset} ${2:0}px ${3:0}px ${4:10}px ${5:0px} ${6:rgba(0, 0, 0, 0.5)};",
+      "/* box-shadow: [inset] <offset-x> <offset-y> <blur-radius> <spread-radius> <color>; */"
+    ]
+  },
+  "CSS Text Shadow": {
+    "scope": "css,scss,sass,less,postcss",
+    "prefix": "text_shadow_snippt",
+    "body": [
+      "text-shadow: ${1:0}px ${2:0}px ${3:2}px ${4:rgba(0, 0, 0, 0.5)};",
+      "/* text-shadow: <offset-x> <offset-y> <blur-radius> <color>; */"
+    ]
+  },
+  "CSS Animation Code": {
+    "scope": "css,scss,sass,less,postcss",
+    "prefix": "animation_snippt",
+    "body": [
+      "animation-name: ${1:slideIn};",
+      "animation-duration: ${2:1s};",
+      "animation-timing-function: ${3:ease-out};",
+      "animation-delay: ${4:0.5s};",
+      "animation-iteration-count: ${5:1};",
+      "animation-direction: ${6:normal};",
+      "animation-fill-mode: ${7:both};",
+      "animation-play-state: ${8:running};",
+      "}",
+      "",
+      "@keyframes slideIn {",
+      "  from {",
+      "    opacity: 0;",
+      "    transform: translateY(20px);",
+      "  }",
+      "  to {",
+      "    opacity: 1;",
+      "    transform: translateY(0px);",
+      "  }",
+      ""
+    ]
+  },
+  "JypeScript Jsconfig": {
+    "scope": "json, jsonc",
+    "prefix": "jsconfig_snippet",
+    "body": [
+      "{",
+      "  \"compilerOptions\": {",
+      "    \"target\": \"ES2020\",",
+      "    \"module\": \"ESNext\",",
+      "    \"moduleResolution\": \"Bundler\",",
+      "    \"lib\": [\"DOM\", \"DOM.Iterable\", \"ES2020\"],",
+      "    \"jsx\": \"react-jsx\",",
+      "    \"strict\": true,",
+      "    \"skipLibCheck\": true,",
+      "    \"esModuleInterop\": true,",
+      "    \"forceConsistentCasingInFileNames\": true,",
+      "    \"declaration\": true,",
+      "    \"declarationMap\": true,",
+      "    \"sourceMap\": true,",
+      "    \"isolatedModules\": true,",
+      "    \"noUncheckedIndexedAccess\": true",
+      "  },",
+      "  \"include\": [\"src\"]",
+      "}",
+      ""
+    ]
+  },
+  "Prettier RC Configuration": {
+    "scope": "json, jsonc",
+    "prefix": "prettier_snippet",
+    "body": [
+      "{",
+      "  \"singleQuote\": true,",
+      "  \"printWidth\": 100,",
+      "  \"singleAttributePerLine\": false,",
+      "  \"proseWrap\": \"always\",",
+      "  \"htmlWhitespaceSensitivity\": \"ignore\",",
+      "  \"semi\": true,",
+      "  \"tabWidth\": 2,",
+      "  \"trailingComma\": \"all\",",
+      "  \"arrowParens\": \"always\",",
+      "  \"bracketSpacing\": true,",
+      "  \"bracketSameLine\": false,",
+      "  \"jsxSingleQuote\": false,",
+      "  \"endOfLine\": \"lf\"",
+      "}",
+      ""
+    ]
+  }
+}
+```
+
+</details>
+
+</td>
+</tr>
+</table>
