@@ -72,7 +72,7 @@ nvm uninstall v18 # remove
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
 ## ⚙️ Settings
 
@@ -294,7 +294,7 @@ nvm uninstall v18 # remove
 </details>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
 ## ⚙️ Snippet Config File
 
