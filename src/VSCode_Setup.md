@@ -70,13 +70,13 @@ nvm uninstall v18 # remove
 
 ---
 
-<table align="center">
+<table>
 <tr>
-<td valign="top">
+<td valign="top" width="50%">
 
 ## ⚙️ Settings
 
-`Ctrl + Shift + P` → **Open User Settings (JSON)** → select all → paste → save
+`Ctrl + Shift + P` → **Open User Settings (JSON)** → copy → paste → save
 
 <details>
 <summary>Click to expand settings.json</summary>
@@ -294,9 +294,11 @@ nvm uninstall v18 # remove
 </details>
 
 </td>
-<td valign="top">
+<td valign="top" width="50%">
 
 ## ⚙️ Snippet Config File
+
+`Ctrl + Shift + P` → **Snippets: Configure Snippets** → copy → paste → save
 
 <details>
 <summary>Click to expand global.code-snippets</summary>
